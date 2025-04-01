@@ -20,7 +20,6 @@ class GameProvider with ChangeNotifier {
     _loadQuestions();
   }
 
-  // Getter público para as categorias
   List<String> get categories => _questionsData.keys.toList();
 
   int get score => _score;
@@ -32,12 +31,17 @@ class GameProvider with ChangeNotifier {
   int get numberOfQuestions => _numberOfQuestions;
 
   Future<void> _loadQuestions() async {
-    final String response = await rootBundle.loadString('assets/questions.json');
-    final data = json.decode(response) as Map<String, dynamic>;
-    _questionsData = data.map((key, value) => MapEntry(
-          key,
-          (value as List).map((q) => Question.fromJson(q)).toList(),
-        ));
+    try {
+      final String response = await rootBundle.loadString('assets/questions.json');
+      final data = json.decode(response) as Map<String, dynamic>;
+      _questionsData = data.map((key, value) => MapEntry(
+            key,
+            (value as List).map((q) => Question.fromJson(q)).toList(),
+          ));
+    } catch (e) {
+      print('Erro ao carregar perguntas: $e');
+      _questionsData = {}; // Fallback vazio em caso de erro
+    }
     notifyListeners();
   }
 
@@ -89,7 +93,7 @@ class GameProvider with ChangeNotifier {
         'pergunta': currentQuestion.pergunta,
         'resposta': currentQuestion.resposta,
         'selecionada': selectedOption ?? 'Tempo esgotado',
-        'explicacao': currentQuestion.explicacao,
+        'explicacao': currentQuestion.explicacao ?? 'Sem explicação',
       });
     }
     _questionIndex++;
