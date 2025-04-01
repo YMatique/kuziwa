@@ -15,11 +15,11 @@ class _MenuScreenState extends State<MenuScreen> {
   @override
   Widget build(BuildContext context) {
     final gameProvider = Provider.of<GameProvider>(context);
-    if (gameProvider.currentQuestions.isEmpty && gameProvider.score == 0) {
+    if (gameProvider.categories.isEmpty) { // Verifica se as categorias estão carregadas
       return Scaffold(body: Center(child: CircularProgressIndicator()));
     }
 
-    final categories = gameProvider._questionsData.keys.toList();
+    final categories = gameProvider.categories;
     return Scaffold(
       appBar: AppBar(title: Text('Kuziwa - Trivia de Moçambique')),
       body: Padding(

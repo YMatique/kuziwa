@@ -33,7 +33,7 @@ class _GameScreenState extends State<GameScreen> with SingleTickerProviderStateM
 
   void _playSound(bool isCorrect) async {
     await _player.startPlayer(
-      fromURI: isCorrect ? 'assets/audio/correct.mp3' : 'assets/audio/wrong.mp3',
+      fromURI: isCorrect ? 'assets/audio/correct.mp3' : 'assets/audio/wrong.wav',
       codec: Codec.mp3,
     );
   }

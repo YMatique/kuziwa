@@ -14,11 +14,14 @@ class GameProvider with ChangeNotifier {
   Timer? _timer;
   List<Map<String, dynamic>> _wrongAnswers = [];
   bool _isPaused = false;
-  int _numberOfQuestions = 10; // Valor padrão
+  int _numberOfQuestions = 10;
 
   GameProvider() {
     _loadQuestions();
   }
+
+  // Getter público para as categorias
+  List<String> get categories => _questionsData.keys.toList();
 
   int get score => _score;
   int get questionIndex => _questionIndex;

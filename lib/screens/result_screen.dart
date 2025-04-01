@@ -30,19 +30,35 @@ class ResultScreen extends StatelessWidget {
                       child: Column(
                         children: gameProvider.wrongAnswers.isEmpty
                             ? [Text('Parabéns! Você acertou tudo!')]
-                            : gameProvider.wrongAnswers.map((answer) => Column(
+                            : gameProvider.wrongAnswers.map(
+                                (answer) => Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Text('Pergunta: ${answer['pergunta']}', style: TextStyle(fontWeight: FontWeight.bold)),
+                                    Text(
+                                      'Pergunta: ${answer['pergunta']}',
+                                      style: TextStyle(fontWeight: FontWeight.bold),
+                                    ),
                                     Text('Sua resposta: ${answer['selecionada']}'),
-                                    Text('Correta: ${answer['resposta']}', style: TextStyle(color: Colors.green)),
-                                    Text('Explicação: ${answer['explicacao']}', style: TextStyle(fontStyle: FontStyle.italic)),
+                                    Text(
+                                      'Correta: ${answer['resposta']}',
+                                      style: TextStyle(color: Colors.green),
+                                    ),
+                                    Text(
+                                      'Explicação: ${answer['explicacao']}',
+                                      style: TextStyle(fontStyle: FontStyle.italic),
+                                    ),
                                     SizedBox(height: 15),
                                   ],
-                                )),
+                                ),
+                              ).toList(), // Converte o Iterable para List<Widget>
                       ),
                     ),
-                    actions: [TextButton(onPressed: () => Navigator.pop(context), child: Text('Fechar'))],
+                    actions: [
+                      TextButton(
+                        onPressed: () => Navigator.pop(context),
+                        child: Text('Fechar'),
+                      ),
+                    ],
                   ),
                 );
               },
@@ -63,7 +79,12 @@ class ResultScreen extends StatelessWidget {
                             : scores.map((score) => Text(score)).toList(),
                       ),
                     ),
-                    actions: [TextButton(onPressed: () => Navigator.pop(context), child: Text('Fechar'))],
+                    actions: [
+                      TextButton(
+                        onPressed: () => Navigator.pop(context),
+                        child: Text('Fechar'),
+                      ),
+                    ],
                   ),
                 );
               },
