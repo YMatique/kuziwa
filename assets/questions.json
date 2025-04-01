@@ -1,0 +1,4130 @@
+{
+    
+    "Flora": [
+      {
+        "id": 1,
+        "pergunta": "Qual é a árvore mais emblemática de Moçambique?",
+        "opcoes": ["Baobá", "Acácia", "Embondeiro", "Palmeira"],
+        "resposta": "Embondeiro"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual planta é a base da alimentação em Moçambique?",
+        "opcoes": ["Mandioca", "Milho", "Arroz", "Feijão"],
+        "resposta": "Mandioca"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é a principal árvore usada para esculturas Makonde?",
+        "opcoes": ["Ébano", "Embondeiro", "Acácia", "Cedro"],
+        "resposta": "Ébano"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual é a planta medicinal mais comum em Moçambique?",
+        "opcoes": ["Moringa", "Aloe vera", "Gengibre", "Malva"],
+        "resposta": "Moringa"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é a principal cultura de exportação agrícola?",
+        "opcoes": ["Caju", "Chá", "Açúcar", "Algodão"],
+        "resposta": "Caju"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual árvore é típica das savanas moçambicanas?",
+        "opcoes": ["Acácia", "Embondeiro", "Palmeira", "Ébano"],
+        "resposta": "Acácia"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é a planta usada para fazer Xima?",
+        "opcoes": ["Milho", "Mandioca", "Arroz", "Sorgo"],
+        "resposta": "Milho"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual é a principal árvore das florestas tropicais de Mabu?",
+        "opcoes": ["Cedro", "Ébano", "Embondeiro", "Acácia"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual planta é usada para fazer a bebida Roka?",
+        "opcoes": ["Caju", "Coco", "Cana-de-açúcar", "Mandioca"],
+        "resposta": "Caju"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual é a principal árvore de fruto nas zonas costeiras?",
+        "opcoes": ["Coqueiro", "Mangueira", "Cajueiro", "Bananeira"],
+        "resposta": "Coqueiro"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é a planta usada na Matapa?",
+        "opcoes": ["Folhas de mandioca", "Folhas de milho", "Folhas de feijão", "Folhas de batata"],
+        "resposta": "Folhas de mandioca"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual é a principal cultura de chá em Moçambique?",
+        "opcoes": ["Chá preto", "Chá verde", "Chá de ervas", "Chá mate"],
+        "resposta": "Chá preto"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é a árvore mais alta de Moçambique?",
+        "opcoes": ["Cedro", "Embondeiro", "Acácia", "Palmeira"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é a planta usada para fazer cestaria?",
+        "opcoes": ["Palmeira", "Junco", "Sisal", "Bambu"],
+        "resposta": "Palmeira"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é a principal planta de fibra em Moçambique?",
+        "opcoes": ["Sisal", "Algodão", "Juta", "Linhas"],
+        "resposta": "Sisal"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual é a árvore sagrada para algumas comunidades moçambicanas?",
+        "opcoes": ["Embondeiro", "Acácia", "Ébano", "Coqueiro"],
+        "resposta": "Embondeiro"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual é a planta usada para fazer o molho piri-piri?",
+        "opcoes": ["Pimenta", "Tomate", "Cebola", "Alho"],
+        "resposta": "Pimenta"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual é a principal planta ornamental nas cidades?",
+        "opcoes": ["Flamboyant", "Jacarandá", "Palmeira", "Acácia"],
+        "resposta": "Flamboyant"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é a planta usada para fazer açúcar?",
+        "opcoes": ["Cana-de-açúcar", "Beterraba", "Caju", "Milho"],
+        "resposta": "Cana-de-açúcar"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é a principal árvore das zonas áridas?",
+        "opcoes": ["Acácia", "Embondeiro", "Cedro", "Palmeira"],
+        "resposta": "Acácia"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual é a planta usada para fazer cocada?",
+        "opcoes": ["Coco", "Caju", "Mandioca", "Milho"],
+        "resposta": "Coco"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é a principal planta de sombra nas aldeias?",
+        "opcoes": ["Embondeiro", "Mangueira", "Acácia", "Coqueiro"],
+        "resposta": "Mangueira"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual é a planta mais comum nas zonas húmidas?",
+        "opcoes": ["Junco", "Palmeira", "Sisal", "Bambu"],
+        "resposta": "Junco"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é a principal árvore de madeira para construção?",
+        "opcoes": ["Cedro", "Ébano", "Embondeiro", "Acácia"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é a planta usada para fazer tabaco?",
+        "opcoes": ["Nicotiana", "Milho", "Caju", "Algodão"],
+        "resposta": "Nicotiana"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual é a principal planta das florestas de montanha?",
+        "opcoes": ["Cedro", "Acácia", "Embondeiro", "Palmeira"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é a planta usada para fazer cordas?",
+        "opcoes": ["Sisal", "Algodão", "Juta", "Bambu"],
+        "resposta": "Sisal"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é a principal planta de fruto no norte?",
+        "opcoes": ["Cajueiro", "Mangueira", "Coqueiro", "Bananeira"],
+        "resposta": "Cajueiro"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é a planta usada para fazer chá em Gurué?",
+        "opcoes": ["Camellia sinensis", "Moringa", "Gengibre", "Malva"],
+        "resposta": "Camellia sinensis"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é a principal planta das dunas costeiras?",
+        "opcoes": ["Palmeira", "Acácia", "Junco", "Sisal"],
+        "resposta": "Palmeira"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é a planta usada para fazer óleo de cozinha?",
+        "opcoes": ["Girassol", "Coco", "Caju", "Milho"],
+        "resposta": "Coco"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é a principal planta das planícies alagadas?",
+        "opcoes": ["Arroz", "Mandioca", "Milho", "Cana-de-açúcar"],
+        "resposta": "Arroz"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é a árvore mais resistente à seca?",
+        "opcoes": ["Embondeiro", "Acácia", "Cedro", "Palmeira"],
+        "resposta": "Embondeiro"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é a planta usada para tingir tecidos?",
+        "opcoes": ["Índigo", "Açafrão", "Urucum", "Beterraba"],
+        "resposta": "Índigo"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é a principal planta das florestas de Niassa?",
+        "opcoes": ["Cedro", "Ébano", "Embondeiro", "Acácia"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é a planta usada para fazer vassouras?",
+        "opcoes": ["Palmeira", "Junco", "Sisal", "Bambu"],
+        "resposta": "Palmeira"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é a principal planta ornamental em Lichinga?",
+        "opcoes": ["Jacarandá", "Flamboyant", "Palmeira", "Acácia"],
+        "resposta": "Jacarandá"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é a planta usada para fazer o caril?",
+        "opcoes": ["Coco", "Pimenta", "Tomate", "Gengibre"],
+        "resposta": "Coco"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é a principal planta das zonas de altitude?",
+        "opcoes": ["Chá", "Mandioca", "Milho", "Caju"],
+        "resposta": "Chá"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é a planta mais comum nas ilhas?",
+        "opcoes": ["Coqueiro", "Mangueira", "Cajueiro", "Bananeira"],
+        "resposta": "Coqueiro"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é a principal planta de cobertura do solo?",
+        "opcoes": ["Feijão", "Mandioca", "Milho", "Amendoim"],
+        "resposta": "Amendoim"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é a árvore mais usada para lenha?",
+        "opcoes": ["Acácia", "Embondeiro", "Cedro", "Ébano"],
+        "resposta": "Acácia"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é a planta usada para fazer perfume?",
+        "opcoes": ["Jasmim", "Moringa", "Pimenta", "Coco"],
+        "resposta": "Jasmim"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é a principal planta das florestas de Manica?",
+        "opcoes": ["Cedro", "Acácia", "Embondeiro", "Palmeira"],
+        "resposta": "Cedro"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é a planta usada para fazer redes de pesca?",
+        "opcoes": ["Sisal", "Algodão", "Juta", "Bambu"],
+        "resposta": "Sisal"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é a principal planta das zonas de savana?",
+        "opcoes": ["Acácia", "Embondeiro", "Palmeira", "Cedro"],
+        "resposta": "Acácia"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é a planta usada para fazer cerveja tradicional?",
+        "opcoes": ["Sorgo", "Milho", "Cana-de-açúcar", "Caju"],
+        "resposta": "Sorgo"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é a principal planta das zonas de praia?",
+        "opcoes": ["Coqueiro", "Acácia", "Junco", "Sisal"],
+        "resposta": "Coqueiro"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é a planta usada para fazer papel artesanal?",
+        "opcoes": ["Bambu", "Sisal", "Junco", "Palmeira"],
+        "resposta": "Bambu"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal fator de ameaça à flora moçambicana?",
+        "opcoes": ["Desmatamento", "Incêndios", "Agricultura", "Todos os anteriores"],
+        "resposta": "Todos os anteriores"
+      }
+    ],
+  
+    "Fauna": [
+      {
+        "id": 1,
+        "pergunta": "Qual é o maior mamífero terrestre de Moçambique?",
+        "opcoes": ["Elefante africano", "Rinoceronte", "Hipopótamo", "Girafa"],
+        "resposta": "Elefante africano"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual animal é o símbolo da seleção de futebol de Moçambique?",
+        "opcoes": ["Mamba", "Leão", "Águia", "Tigre"],
+        "resposta": "Mamba"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é o principal predador das savanas moçambicanas?",
+        "opcoes": ["Leão", "Leopardo", "Hiena", "Chita"],
+        "resposta": "Leão"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual espécie de tartaruga é comum nas praias de Moçambique?",
+        "opcoes": ["Tartaruga-de-pente", "Tartaruga-verde", "Tartaruga-oliva", "Tartaruga-gigante"],
+        "resposta": "Tartaruga-de-pente"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é o maior peixe encontrado nas águas moçambicanas?",
+        "opcoes": ["Tubarão-baleia", "Atum", "Marlim", "Barracuda"],
+        "resposta": "Tubarão-baleia"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual animal é protegido na Reserva do Niassa?",
+        "opcoes": ["Cão-selvagem-africano", "Leão", "Elefante", "Todos os anteriores"],
+        "resposta": "Todos os anteriores"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é o pássaro mais colorido de Moçambique?",
+        "opcoes": ["Rola-do-mar", "Papagaio-cinzento", "Flamingo", "Abelharuco"],
+        "resposta": "Abelharuco"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual é o réptil mais venenoso de Moçambique?",
+        "opcoes": ["Mamba-negra", "Cobra-cuspideira", "Víbora", "Cobra-coral"],
+        "resposta": "Mamba-negra"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual animal aquático é comum nos rios de Moçambique?",
+        "opcoes": ["Crocodilo", "Hipopótamo", "Peixe-boi", "Lontra"],
+        "resposta": "Crocodilo"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual é o maior primata de Moçambique?",
+        "opcoes": ["Babúino", "Gorila", "Chimpanzé", "Macaco-vervet"],
+        "resposta": "Babúino"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é o principal mamífero marinho nas costas moçambicanas?",
+        "opcoes": ["Golfinho", "Baleia", "Dugongo", "Foca"],
+        "resposta": "Dugongo"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual animal é conhecido por suas manchas?",
+        "opcoes": ["Leopardo", "Chita", "Hiena", "Leão"],
+        "resposta": "Leopardo"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o maior antílope de Moçambique?",
+        "opcoes": ["Eland", "Cudo", "Impala", "Palanca-negra"],
+        "resposta": "Eland"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual ave é símbolo das zonas húmidas de Moçambique?",
+        "opcoes": ["Flamingo", "Garça", "Pelicano", "Cegonha"],
+        "resposta": "Flamingo"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é o principal inseto transmissor de doenças em Moçambique?",
+        "opcoes": ["Mosquito", "Mosca-tsé-tsé", "Abelha", "Gafanhoto"],
+        "resposta": "Mosquito"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual animal é encontrado no Parque Nacional da Gorongosa?",
+        "opcoes": ["Leão", "Elefante", "Búfalo", "Todos os anteriores"],
+        "resposta": "Todos os anteriores"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual é o peixe mais pescado na costa moçambicana?",
+        "opcoes": ["Camarão", "Atum", "Sardinha", "Pargo"],
+        "resposta": "Camarão"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual é o menor mamífero de Moçambique?",
+        "opcoes": ["Musaranho", "Rato", "Morcego", "Coelho"],
+        "resposta": "Musaranho"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é o principal predador aquático dos rios?",
+        "opcoes": ["Crocodilo", "Hipopótamo", "Peixe-tigre", "Lontra"],
+        "resposta": "Crocodilo"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual animal é conhecido por seus chifres espiralados?",
+        "opcoes": ["Cudo", "Impala", "Eland", "Palanca-negra"],
+        "resposta": "Cudo"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual é o maior pássaro de Moçambique?",
+        "opcoes": ["Avestruz", "Pelicano", "Abutre", "Flamingo"],
+        "resposta": "Avestruz"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o principal animal ameaçado no norte de Moçambique?",
+        "opcoes": ["Elefante", "Rinoceronte", "Dugongo", "Leopardo"],
+        "resposta": "Elefante"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual é o réptil mais comum nas zonas costeiras?",
+        "opcoes": ["Lagarto-monitor", "Cobra-cuspideira", "Mamba-negra", "Camaleão"],
+        "resposta": "Lagarto-monitor"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é o principal mamífero das zonas húmidas?",
+        "opcoes": ["Hipopótamo", "Elefante", "Búfalo", "Cão-selvagem"],
+        "resposta": "Hipopótamo"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é o peixe de água doce mais comum no Lago Niassa?",
+        "opcoes": ["Tilápia", "Peixe-tigre", "Sardinha", "Carpa"],
+        "resposta": "Tilápia"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual animal é conhecido por sua velocidade?",
+        "opcoes": ["Chita", "Leopardo", "Hiena", "Leão"],
+        "resposta": "Chita"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o principal pássaro de rapina em Moçambique?",
+        "opcoes": ["Águia-pescadora", "Abutre", "Falcão", "Coruja"],
+        "resposta": "Águia-pescadora"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é o animal mais caçado ilegalmente em Moçambique?",
+        "opcoes": ["Elefante", "Rinoceronte", "Leopardo", "Búfalo"],
+        "resposta": "Elefante"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é o principal crustáceo das águas moçambicanas?",
+        "opcoes": ["Camarão", "Caranguejo", "Lagosta", "Siri"],
+        "resposta": "Camarão"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é o animal conhecido por seu pescoço longo?",
+        "opcoes": ["Girafa", "Avestruz", "Eland", "Flamingo"],
+        "resposta": "Girafa"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o principal predador das zonas costeiras?",
+        "opcoes": ["Tubarão", "Crocodilo", "Leopardo", "Hiena"],
+        "resposta": "Tubarão"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é o menor antílope de Moçambique?",
+        "opcoes": ["Duiker", "Impala", "Cudo", "Eland"],
+        "resposta": "Duiker"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é o principal animal das florestas de Mabu?",
+        "opcoes": ["Macaco-vervet", "Leopardo", "Elefante", "Búfalo"],
+        "resposta": "Macaco-vervet"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é o pássaro mais comum nas cidades?",
+        "opcoes": ["Pombo", "Rola-do-mar", "Flamingo", "Abelharuco"],
+        "resposta": "Pombo"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é o principal mamífero das planícies?",
+        "opcoes": ["Búfalo", "Elefante", "Leão", "Hipopótamo"],
+        "resposta": "Búfalo"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é o réptil mais encontrado em rios?",
+        "opcoes": ["Crocodilo", "Lagarto-monitor", "Cobra-d’água", "Tartaruga"],
+        "resposta": "Crocodilo"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é o principal animal protegido em Bazaruto?",
+        "opcoes": ["Dugongo", "Tubarão", "Golfinho", "Tartaruga"],
+        "resposta": "Dugongo"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é o maior felino de Moçambique?",
+        "opcoes": ["Leão", "Leopardo", "Chita", "Lince"],
+        "resposta": "Leão"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é o principal peixe predador das águas costeiras?",
+        "opcoes": ["Barracuda", "Atum", "Tubarão", "Marlim"],
+        "resposta": "Barracuda"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o animal conhecido por suas listras?",
+        "opcoes": ["Zebra", "Impala", "Cudo", "Girafa"],
+        "resposta": "Zebra"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é o principal pássaro das florestas tropicais?",
+        "opcoes": ["Papagaio-cinzento", "Flamingo", "Abutre", "Rola-do-mar"],
+        "resposta": "Papagaio-cinzento"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o animal mais ameaçado no Parque Nacional de Zinave?",
+        "opcoes": ["Rinoceronte", "Elefante", "Leopardo", "Cão-selvagem"],
+        "resposta": "Rinoceronte"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é o principal inseto polinizador em Moçambique?",
+        "opcoes": ["Abelha", "Borboleta", "Mosca", "Joaninha"],
+        "resposta": "Abelha"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é o animal conhecido por seu chifre único?",
+        "opcoes": ["Rinoceronte", "Eland", "Cudo", "Impala"],
+        "resposta": "Rinoceronte"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é o principal molusco das águas moçambicanas?",
+        "opcoes": ["Polvo", "Lula", "Ostra", "Mexilhão"],
+        "resposta": "Polvo"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é o pássaro mais barulhento de Moçambique?",
+        "opcoes": ["Papagaio-cinzento", "Abelharuco", "Flamingo", "Pombo"],
+        "resposta": "Papagaio-cinzento"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é o principal animal das montanhas de Moçambique?",
+        "opcoes": ["Leopardo", "Babúino", "Elefante", "Búfalo"],
+        "resposta": "Leopardo"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o réptil mais colorido de Moçambique?",
+        "opcoes": ["Camaleão", "Cobra-coral", "Lagarto-monitor", "Mamba-negra"],
+        "resposta": "Camaleão"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é o principal animal das ilhas Quirimbas?",
+        "opcoes": ["Tartaruga", "Dugongo", "Golfinho", "Tubarão"],
+        "resposta": "Tartaruga"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal fator de ameaça à fauna moçambicana?",
+        "opcoes": ["Caça ilegal", "Desmatamento", "Poluição", "Todos os anteriores"],
+        "resposta": "Todos os anteriores"
+      }
+    ],
+    "Esportes": [
+      {
+        "id": 1,
+        "pergunta": "Qual é o esporte mais popular em Moçambique?",
+        "opcoes": ["Futebol", "Basquetebol", "Atletismo", "Voleibol"],
+        "resposta": "Futebol"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual é a seleção nacional de futebol de Moçambique?",
+        "opcoes": ["Os Mambas", "Os Leões", "Os Águias", "Os Tigres"],
+        "resposta": "Os Mambas"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual clube de futebol é o mais antigo de Moçambique?",
+        "opcoes": ["Desportivo de Maputo", "Ferroviário de Maputo", "Costa do Sol", "Maxaquene"],
+        "resposta": "Desportivo de Maputo"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual é o principal campeonato de futebol em Moçambique?",
+        "opcoes": ["Moçambola", "Liga Nacional", "Taça de Maputo", "Campeonato Provincial"],
+        "resposta": "Moçambola"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual atleta moçambicana ganhou ouro olímpico em 2000?",
+        "opcoes": ["Maria Mutola", "Lurdes Mutola", "Clarisse Machanguana", "Esperança Bias"],
+        "resposta": "Maria Mutola"
+      },
+      {
+        "id": 6,
+        "pergunta": "Em que cidade está localizado o Estádio Nacional do Zimpeto?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Matola"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é o esporte aquático mais praticado na costa moçambicana?",
+        "opcoes": ["Natação", "Mergulho", "Polo aquático", "Remo"],
+        "resposta": "Mergulho"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual clube venceu o Moçambola mais vezes?",
+        "opcoes": ["Ferroviário de Maputo", "Costa do Sol", "Desportivo de Maputo", "Maxaquene"],
+        "resposta": "Ferroviário de Maputo"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual é a modalidade em que Maria Mutola se destacou?",
+        "opcoes": ["800 metros", "100 metros", "Salto em altura", "Maratona"],
+        "resposta": "800 metros"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual cidade sedia o Ferroviário da Beira?",
+        "opcoes": ["Beira", "Maputo", "Nampula", "Quelimane"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é o principal torneio de basquetebol em Moçambique?",
+        "opcoes": ["Liga Nacional de Basquete", "Taça de Moçambique", "Campeonato de Maputo", "Moçambola Basket"],
+        "resposta": "Liga Nacional de Basquete"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual esporte tradicional é praticado em Cabo Delgado?",
+        "opcoes": ["Luta Makonde", "Corrida de canoas", "Jogo de mancala", "Arco e flecha"],
+        "resposta": "Corrida de canoas"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o apelido do Costa do Sol?",
+        "opcoes": ["Canarinhos", "Mambas", "Leões", "Águias"],
+        "resposta": "Canarinhos"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é o estádio mais antigo de Moçambique?",
+        "opcoes": ["Estádio da Machava", "Estádio do Zimpeto", "Estádio do Ferroviário", "Estádio do Costa do Sol"],
+        "resposta": "Estádio da Machava"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é o principal evento de atletismo em Moçambique?",
+        "opcoes": ["Maratona de Maputo", "Corrida da Paz", "Grande Prêmio de Atletismo", "Corrida Nacional"],
+        "resposta": "Maratona de Maputo"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual clube de basquetebol é o mais bem-sucedido de Moçambique?",
+        "opcoes": ["Ferroviário de Maputo", "Desportivo de Maputo", "Costa do Sol", "Maxaquene"],
+        "resposta": "Ferroviário de Maputo"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual cidade é conhecida pelo futebol em Nampula?",
+        "opcoes": ["Nampula", "Angoche", "Monapo", "Nacala"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual é o apelido do Maxaquene?",
+        "opcoes": ["Maxaca", "Leões", "Canarinhos", "Mambas"],
+        "resposta": "Maxaca"
+      },
+      {
+        "id": 19,
+        "pergunta": "Quantas vezes Moçambique participou dos Jogos Olímpicos até 2025?",
+        "opcoes": ["5", "10", "12", "15"],
+        "resposta": "12"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é o principal esporte escolar em Moçambique?",
+        "opcoes": ["Futebol", "Basquetebol", "Voleibol", "Atletismo"],
+        "resposta": "Futebol"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual é o maior rival do Ferroviário de Maputo?",
+        "opcoes": ["Desportivo de Maputo", "Costa do Sol", "Maxaquene", "Liga Desportiva"],
+        "resposta": "Desportivo de Maputo"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o principal torneio de voleibol em Moçambique?",
+        "opcoes": ["Liga Nacional de Voleibol", "Taça de Maputo", "Campeonato Provincial", "Volei Moçambola"],
+        "resposta": "Liga Nacional de Voleibol"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual atleta moçambicano competiu na natação olímpica?",
+        "opcoes": ["Joaquim Lobo", "Kurt Couto", "Maria Mutola", "Clarisse Machanguana"],
+        "resposta": "Joaquim Lobo"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é o estádio principal da província de Sofala?",
+        "opcoes": ["Estádio do Ferroviário da Beira", "Estádio do Zimpeto", "Estádio da Machava", "Estádio do Costa do Sol"],
+        "resposta": "Estádio do Ferroviário da Beira"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é o principal esporte praticado nas praias?",
+        "opcoes": ["Futebol de praia", "Voleibol de praia", "Surf", "Natação"],
+        "resposta": "Futebol de praia"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual clube de futebol é conhecido como 'Locomotivas'?",
+        "opcoes": ["Ferroviário de Maputo", "Costa do Sol", "Maxaquene", "Desportivo de Maputo"],
+        "resposta": "Ferroviário de Maputo"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o principal evento de ciclismo em Moçambique?",
+        "opcoes": ["Volta a Moçambique", "Grande Prêmio de Maputo", "Ciclismo Nacional", "Corrida da Cidade"],
+        "resposta": "Volta a Moçambique"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é o apelido da seleção feminina de basquetebol?",
+        "opcoes": ["Mambinhas", "Leoas", "Águias", "Tigresas"],
+        "resposta": "Mambinhas"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual cidade é conhecida pelo basquetebol em Sofala?",
+        "opcoes": ["Beira", "Chimoio", "Dondo", "Manica"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é o principal torneio de futebol de salão?",
+        "opcoes": ["Liga de Futsal", "Taça de Moçambique", "Campeonato de Maputo", "Futsal Moçambola"],
+        "resposta": "Liga de Futsal"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o maior estádio de Moçambique em capacidade?",
+        "opcoes": ["Estádio Nacional do Zimpeto", "Estádio da Machava", "Estádio do Ferroviário", "Estádio do Costa do Sol"],
+        "resposta": "Estádio Nacional do Zimpeto"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é o principal esporte de combate em Moçambique?",
+        "opcoes": ["Boxe", "Karaté", "Judô", "Luta tradicional"],
+        "resposta": "Boxe"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual clube de futebol é baseado em Matola?",
+        "opcoes": ["Liga Desportiva", "Ferroviário de Maputo", "Costa do Sol", "Maxaquene"],
+        "resposta": "Liga Desportiva"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é o principal evento de corrida de rua em Maputo?",
+        "opcoes": ["Corrida da Paz", "Maratona de Maputo", "Grande Prêmio", "Corrida Nacional"],
+        "resposta": "Corrida da Paz"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é o apelido do Desportivo de Maputo?",
+        "opcoes": ["Alvi-Negros", "Canarinhos", "Locomotivas", "Maxaca"],
+        "resposta": "Alvi-Negros"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é o principal ginásio de basquetebol em Maputo?",
+        "opcoes": ["Pavilhão do Maxaquene", "Pavilhão do Zimpeto", "Pavilhão da Machava", "Pavilhão do Ferroviário"],
+        "resposta": "Pavilhão do Maxaquene"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é o esporte mais praticado nas zonas rurais?",
+        "opcoes": ["Futebol", "Atletismo", "Voleibol", "Luta tradicional"],
+        "resposta": "Futebol"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é o principal torneio de futebol juvenil?",
+        "opcoes": ["Taça da Esperança", "Moçambola Juvenil", "Campeonato Nacional", "Liga Jovem"],
+        "resposta": "Taça da Esperança"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual cidade é conhecida pelo voleibol em Inhambane?",
+        "opcoes": ["Inhambane", "Maxixe", "Vilankulo", "Tofo"],
+        "resposta": "Maxixe"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o principal evento de natação em Moçambique?",
+        "opcoes": ["Travessia de Maputo", "Campeonato Nacional", "Natação da Paz", "Grande Prêmio Aquático"],
+        "resposta": "Travessia de Maputo"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é o apelido da seleção de atletismo?",
+        "opcoes": ["Mambas Velozes", "Leões", "Águias", "Tigres"],
+        "resposta": "Mambas Velozes"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o principal clube de futebol em Quelimane?",
+        "opcoes": ["Ferroviário de Quelimane", "Costa do Sol", "Maxaquene", "Desportivo de Maputo"],
+        "resposta": "Ferroviário de Quelimane"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é o principal esporte de equipe feminino?",
+        "opcoes": ["Basquetebol", "Futebol", "Voleibol", "Hóquei"],
+        "resposta": "Basquetebol"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é o maior rival do Costa do Sol?",
+        "opcoes": ["Maxaquene", "Ferroviário de Maputo", "Desportivo de Maputo", "Liga Desportiva"],
+        "resposta": "Maxaquene"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é o principal torneio de boxe em Moçambique?",
+        "opcoes": ["Campeonato Nacional de Boxe", "Taça de Maputo", "Luta da Paz", "Grande Prêmio de Boxe"],
+        "resposta": "Campeonato Nacional de Boxe"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual cidade é conhecida pelo atletismo em Niassa?",
+        "opcoes": ["Lichinga", "Cuamba", "Mandimba", "Marrupa"],
+        "resposta": "Lichinga"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é o principal evento de futebol de praia?",
+        "opcoes": ["Copa de Praia", "Taça Nacional", "Campeonato de Maputo", "Praia Moçambola"],
+        "resposta": "Copa de Praia"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o apelido do Ferroviário da Beira?",
+        "opcoes": ["Locomotivas", "Canarinhos", "Maxaca", "Alvi-Negros"],
+        "resposta": "Locomotivas"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é o principal torneio de tênis em Moçambique?",
+        "opcoes": ["Open de Maputo", "Taça Nacional", "Campeonato de Tênis", "Grande Prêmio"],
+        "resposta": "Open de Maputo"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal incentivo ao esporte em Moçambique?",
+        "opcoes": ["Governo", "Clubes", "Patrocinadores", "Todos os anteriores"],
+        "resposta": "Todos os anteriores"
+      }
+    ],
+    "Cultura": [
+      {
+        "id": 1,
+        "pergunta": "Qual é a dança tradicional mais conhecida de Moçambique?",
+        "opcoes": ["Mapiko", "Tufu", "Marrabenta", "Xigubo"],
+        "resposta": "Marrabenta"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual instrumento musical é típico da cultura moçambicana?",
+        "opcoes": ["Mbira", "Timbila", "Djembe", "Kora"],
+        "resposta": "Timbila"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é o prato tradicional mais famoso de Moçambique?",
+        "opcoes": ["Matapa", "Pãozinho", "Xima", "Camarão grelhado"],
+        "resposta": "Matapa"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual grupo étnico é conhecido pela dança Mapiko?",
+        "opcoes": ["Makonde", "Tsonga", "Sena", "Makhuwa"],
+        "resposta": "Makonde"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é a bebida tradicional feita de caju?",
+        "opcoes": ["Cajuína", "Roka", "Ukhamba", "Mampoer"],
+        "resposta": "Roka"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual cidade é considerada o berço da Marrabenta?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Inhambane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é o principal material usado nas esculturas Makonde?",
+        "opcoes": ["Madeira", "Barro", "Pedra", "Metal"],
+        "resposta": "Madeira"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual feriado celebra a independência de Moçambique?",
+        "opcoes": ["25 de Junho", "7 de Setembro", "1 de Maio", "3 de Fevereiro"],
+        "resposta": "25 de Junho"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual escritor moçambicano é conhecido por 'Terra Sonâmbula'?",
+        "opcoes": ["Mia Couto", "José Craveirinha", "Noémia de Sousa", "Paulinho Assunção"],
+        "resposta": "Mia Couto"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual é o nome do festival anual de música em Maputo?",
+        "opcoes": ["AZGO", "FEST", "Marrabenta Festival", "Chopi Music Festival"],
+        "resposta": "AZGO"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é a dança tradicional dos Tsonga?",
+        "opcoes": ["Xigubo", "Mapiko", "Tufu", "Marrabenta"],
+        "resposta": "Xigubo"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual é o principal ingrediente da Matapa?",
+        "opcoes": ["Folhas de mandioca", "Milho", "Arroz", "Feijão"],
+        "resposta": "Folhas de mandioca"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual poeta é considerado o 'pai da poesia moçambicana'?",
+        "opcoes": ["José Craveirinha", "Mia Couto", "Noémia de Sousa", "Ungulani Ba Ka Khosa"],
+        "resposta": "José Craveirinha"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é o artesanato típico da Ilha de Moçambique?",
+        "opcoes": ["Joias de prata", "Cestaria", "Esculturas de madeira", "Tecelagem"],
+        "resposta": "Joias de prata"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é o nome da dança guerreira dos Nguni?",
+        "opcoes": ["Tufu", "Xigubo", "Mapiko", "Ngalanga"],
+        "resposta": "Ngalanga"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual é o principal festival de cinema em Moçambique?",
+        "opcoes": ["DOCKANEMA", "FESTIVAL", "CINEMAFRICA", "MOZAMBIQUE FILM"],
+        "resposta": "DOCKANEMA"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual é a sobremesa tradicional feita com coco?",
+        "opcoes": ["Cocada", "Pudim de caju", "Bolo de milho", "Doce de mandioca"],
+        "resposta": "Cocada"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual grupo étnico é famoso pela música com Timbila?",
+        "opcoes": ["Chopi", "Makonde", "Tsonga", "Sena"],
+        "resposta": "Chopi"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é o feriado que celebra os heróis nacionais?",
+        "opcoes": ["3 de Fevereiro", "25 de Junho", "7 de Setembro", "1 de Maio"],
+        "resposta": "3 de Fevereiro"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é o estilo musical que mistura ritmos africanos e portugueses?",
+        "opcoes": ["Marrabenta", "Tufu", "Mapiko", "Xigubo"],
+        "resposta": "Marrabenta"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual é o principal tecido usado nas vestimentas tradicionais?",
+        "opcoes": ["Capulana", "Kente", "Ankara", "Kitenge"],
+        "resposta": "Capulana"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o nome do mercado de artesanato famoso em Maputo?",
+        "opcoes": ["FEIMA", "Mercado Central", "Mercado Xipamanine", "Mercado do Peixe"],
+        "resposta": "FEIMA"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual é o principal evento cultural da Ilha de Moçambique?",
+        "opcoes": ["Festival de São Sebastião", "Festival de Marrabenta", "Festival AZGO", "Festival de Timbila"],
+        "resposta": "Festival de São Sebastião"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é o prato típico feito com milho?",
+        "opcoes": ["Xima", "Matapa", "Pãozinho", "Camarão grelhado"],
+        "resposta": "Xima"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é o principal escritor da poesia anticolonial?",
+        "opcoes": ["Noémia de Sousa", "Mia Couto", "José Craveirinha", "Paulinho Assunção"],
+        "resposta": "Noémia de Sousa"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual é a dança tradicional dos Sena?",
+        "opcoes": ["Tufu", "Xigubo", "Mapiko", "Ngalanga"],
+        "resposta": "Tufu"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o principal festival de dança em Moçambique?",
+        "opcoes": ["Kinani", "AZGO", "FEST", "DOCKANEMA"],
+        "resposta": "Kinani"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é o instrumento de percussão típico dos Makhuwa?",
+        "opcoes": ["Tambor", "Timbila", "Mbira", "Xilofone"],
+        "resposta": "Tambor"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é o feriado que celebra a paz em Moçambique?",
+        "opcoes": ["4 de Outubro", "25 de Junho", "3 de Fevereiro", "7 de Setembro"],
+        "resposta": "4 de Outubro"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é o principal tipo de pintura tradicional?",
+        "opcoes": ["Pintura mural", "Pintura em tela", "Pintura em cerâmica", "Pintura corporal"],
+        "resposta": "Pintura mural"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o nome do pão tradicional moçambicano?",
+        "opcoes": ["Pãozinho", "Xima", "Matapa", "Cocada"],
+        "resposta": "Pãozinho"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é o principal museu de cultura em Maputo?",
+        "opcoes": ["Museu Nacional de Arte", "Museu da Revolução", "Museu de História Natural", "Museu do Pescador"],
+        "resposta": "Museu Nacional de Arte"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é a dança tradicional dos Yao?",
+        "opcoes": ["Ngalanga", "Tufu", "Mapiko", "Xigubo"],
+        "resposta": "Ngalanga"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é o principal ingrediente do molho piri-piri?",
+        "opcoes": ["Pimenta", "Tomate", "Cebola", "Alho"],
+        "resposta": "Pimenta"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é o artesanato típico da província de Inhambane?",
+        "opcoes": ["Cestaria", "Esculturas", "Joias", "Tecelagem"],
+        "resposta": "Cestaria"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é o principal escritor moçambicano contemporâneo?",
+        "opcoes": ["Mia Couto", "José Craveirinha", "Noémia de Sousa", "Ungulani Ba Ka Khosa"],
+        "resposta": "Mia Couto"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é o feriado que celebra o Dia da Mulher Moçambicana?",
+        "opcoes": ["7 de Abril", "25 de Junho", "3 de Fevereiro", "4 de Outubro"],
+        "resposta": "7 de Abril"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é o principal estilo arquitetônico da Ilha de Moçambique?",
+        "opcoes": ["Árabe-Swahili", "Português colonial", "Moderno", "Indiano"],
+        "resposta": "Árabe-Swahili"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é o principal evento cultural em Nampula?",
+        "opcoes": ["Festival Makhuwa", "Festival de Marrabenta", "Festival AZGO", "Festival de Timbila"],
+        "resposta": "Festival Makhuwa"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o principal tipo de teatro em Moçambique?",
+        "opcoes": ["Teatro comunitário", "Teatro clássico", "Teatro de rua", "Teatro experimental"],
+        "resposta": "Teatro comunitário"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é o principal peixe usado na culinária costeira?",
+        "opcoes": ["Pargo", "Atum", "Sardinha", "Camarão"],
+        "resposta": "Pargo"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o principal festival de música tradicional em Inhambane?",
+        "opcoes": ["Festival de Timbila", "Festival AZGO", "Festival de Marrabenta", "Festival Chopi"],
+        "resposta": "Festival Chopi"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é o principal tipo de máscara usado na dança Mapiko?",
+        "opcoes": ["Madeira", "Barro", "Pano", "Metal"],
+        "resposta": "Madeira"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é o principal evento literário em Moçambique?",
+        "opcoes": ["Feira do Livro de Maputo", "Festival de Poesia", "Semana Literária", "Encontro de Escritores"],
+        "resposta": "Feira do Livro de Maputo"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é o principal ingrediente do caril moçambicano?",
+        "opcoes": ["Coco", "Tomate", "Pimenta", "Cebola"],
+        "resposta": "Coco"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é o principal grupo de teatro em Moçambique?",
+        "opcoes": ["Mutumbela Gogo", "Teatro Avenida", "Grupo Cena", "Companhia Nacional"],
+        "resposta": "Mutumbela Gogo"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é o principal feriado religioso em Moçambique?",
+        "opcoes": ["Natal", "Ramadã", "Páscoa", "Diwali"],
+        "resposta": "Natal"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o principal tipo de cerâmica tradicional?",
+        "opcoes": ["Potes de barro", "Esculturas", "Joias", "Placas"],
+        "resposta": "Potes de barro"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é o principal evento cultural em Sofala?",
+        "opcoes": ["Festival Sena", "Festival de Marrabenta", "Festival AZGO", "Festival de Timbila"],
+        "resposta": "Festival Sena"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é a principal influência na culinária moçambicana?",
+        "opcoes": ["Portuguesa", "Árabe", "Indiana", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      }
+    ],
+    "Demografia": [
+      {
+        "id": 1,
+        "pergunta": "Qual é a população aproximada de Moçambique (2025)?",
+        "opcoes": ["20 milhões", "25 milhões", "33 milhões", "40 milhões"],
+        "resposta": "33 milhões"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual é o idioma oficial de Moçambique?",
+        "opcoes": ["Swahili", "Português", "Inglês", "Makhuwa"],
+        "resposta": "Português"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é o grupo étnico mais numeroso em Moçambique?",
+        "opcoes": ["Tsonga", "Makhuwa", "Sena", "Shona"],
+        "resposta": "Makhuwa"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual é a religião predominante em Moçambique?",
+        "opcoes": ["Islamismo", "Cristianismo", "Hinduísmo", "Budismo"],
+        "resposta": "Cristianismo"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é a taxa de urbanização aproximada de Moçambique?",
+        "opcoes": ["10%", "20%", "30%", "50%"],
+        "resposta": "30%"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual cidade tem a maior população urbana?",
+        "opcoes": ["Maputo", "Matola", "Nampula", "Beira"],
+        "resposta": "Matola"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é a expectativa de vida média em Moçambique (2025)?",
+        "opcoes": ["50 anos", "60 anos", "70 anos", "80 anos"],
+        "resposta": "60 anos"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual é a principal causa de mortalidade em Moçambique?",
+        "opcoes": ["Malária", "HIV/AIDS", "Tuberculose", "Câncer"],
+        "resposta": "HIV/AIDS"
+      },
+      {
+        "id": 9,
+        "pergunta": "Quantas línguas nativas são faladas em Moçambique?",
+        "opcoes": ["Mais de 10", "Mais de 20", "Mais de 40", "Mais de 60"],
+        "resposta": "Mais de 40"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual é a densidade populacional média de Moçambique?",
+        "opcoes": ["20 hab/km²", "40 hab/km²", "60 hab/km²", "80 hab/km²"],
+        "resposta": "40 hab/km²"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual província tem a maior população?",
+        "opcoes": ["Nampula", "Zambezia", "Maputo", "Sofala"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual é o grupo étnico predominante no sul de Moçambique?",
+        "opcoes": ["Tsonga", "Makhuwa", "Sena", "Shona"],
+        "resposta": "Tsonga"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é a taxa de natalidade aproximada por mulher?",
+        "opcoes": ["2 filhos", "3 filhos", "5 filhos", "7 filhos"],
+        "resposta": "5 filhos"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é a principal religião no norte de Moçambique?",
+        "opcoes": ["Islamismo", "Cristianismo", "Animismo", "Hinduísmo"],
+        "resposta": "Islamismo"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual cidade é conhecida como a terceira mais populosa?",
+        "opcoes": ["Beira", "Nampula", "Matola", "Maputo"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual é a taxa de crescimento populacional anual?",
+        "opcoes": ["1%", "2,5%", "3,5%", "4%"],
+        "resposta": "2,5%"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual província tem a menor densidade populacional?",
+        "opcoes": ["Niassa", "Tete", "Cabo Delgado", "Inhambane"],
+        "resposta": "Niassa"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual é o principal idioma falado em Nampula?",
+        "opcoes": ["Makhuwa", "Português", "Sena", "Tsonga"],
+        "resposta": "Makhuwa"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é a porcentagem aproximada de cristãos em Moçambique?",
+        "opcoes": ["30%", "50%", "70%", "90%"],
+        "resposta": "50%"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é a principal causa de migração interna?",
+        "opcoes": ["Trabalho", "Educação", "Conflito", "Casamento"],
+        "resposta": "Trabalho"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual província tem a maior taxa de urbanização?",
+        "opcoes": ["Maputo", "Sofala", "Nampula", "Zambezia"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o grupo étnico predominante na província de Sofala?",
+        "opcoes": ["Sena", "Makhuwa", "Tsonga", "Shona"],
+        "resposta": "Sena"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual é a porcentagem aproximada de muçulmanos em Moçambique?",
+        "opcoes": ["10%", "20%", "30%", "40%"],
+        "resposta": "20%"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual cidade tem a menor população urbana?",
+        "opcoes": ["Lichinga", "Maputo", "Beira", "Nampula"],
+        "resposta": "Lichinga"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é a principal faixa etária da população moçambicana?",
+        "opcoes": ["0-14 anos", "15-64 anos", "65+ anos", "Todas iguais"],
+        "resposta": "0-14 anos"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual província tem a maior concentração de população rural?",
+        "opcoes": ["Zambezia", "Nampula", "Niassa", "Maputo"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o principal idioma falado em Cabo Delgado?",
+        "opcoes": ["Makonde", "Makhuwa", "Português", "Sena"],
+        "resposta": "Makonde"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é a taxa de mortalidade infantil aproximada (por 1.000 nascidos)?",
+        "opcoes": ["20", "50", "70", "100"],
+        "resposta": "70"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é a porcentagem aproximada de população animista?",
+        "opcoes": ["5%", "15%", "25%", "35%"],
+        "resposta": "25%"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual província tem a maior diversidade étnica?",
+        "opcoes": ["Nampula", "Zambezia", "Sofala", "Maputo"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o principal destino de emigração dos moçambicanos?",
+        "opcoes": ["África do Sul", "Portugal", "Zimbábue", "Malawi"],
+        "resposta": "África do Sul"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é o grupo étnico predominante em Tete?",
+        "opcoes": ["Nyungwe", "Makhuwa", "Tsonga", "Sena"],
+        "resposta": "Nyungwe"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é a taxa de fecundidade total em Moçambique?",
+        "opcoes": ["3 filhos", "5 filhos", "7 filhos", "9 filhos"],
+        "resposta": "5 filhos"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual cidade tem a maior densidade populacional?",
+        "opcoes": ["Maputo", "Matola", "Nampula", "Beira"],
+        "resposta": "Matola"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é o principal idioma falado em Zambezia?",
+        "opcoes": ["Sena", "Makhuwa", "Lomwe", "Português"],
+        "resposta": "Lomwe"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é a porcentagem de população jovem (0-14 anos)?",
+        "opcoes": ["20%", "30%", "40%", "50%"],
+        "resposta": "40%"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual província tem a menor população?",
+        "opcoes": ["Maputo Cidade", "Niassa", "Cabo Delgado", "Inhambane"],
+        "resposta": "Maputo Cidade"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é o principal fator de mortalidade infantil?",
+        "opcoes": ["Malária", "Desnutrição", "HIV/AIDS", "Tuberculose"],
+        "resposta": "Malária"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é o idioma mais falado no sul de Moçambique?",
+        "opcoes": ["Tsonga", "Makhuwa", "Sena", "Português"],
+        "resposta": "Tsonga"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é a taxa de alfabetização aproximada entre adultos?",
+        "opcoes": ["40%", "50%", "60%", "70%"],
+        "resposta": "60%"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual província tem a maior população muçulmana?",
+        "opcoes": ["Cabo Delgado", "Nampula", "Niassa", "Zambezia"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o principal grupo étnico em Niassa?",
+        "opcoes": ["Yao", "Makhuwa", "Tsonga", "Sena"],
+        "resposta": "Yao"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é a porcentagem de população rural em Moçambique?",
+        "opcoes": ["50%", "60%", "70%", "80%"],
+        "resposta": "70%"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual cidade é conhecida por sua população multiétnica?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é o principal idioma falado em Inhambane?",
+        "opcoes": ["Chopi", "Makhuwa", "Tsonga", "Sena"],
+        "resposta": "Chopi"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é a taxa de dependência demográfica em Moçambique?",
+        "opcoes": ["50%", "70%", "90%", "110%"],
+        "resposta": "90%"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual província tem a maior taxa de natalidade?",
+        "opcoes": ["Nampula", "Zambezia", "Sofala", "Maputo"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o principal idioma falado em Manica?",
+        "opcoes": ["Shona", "Makhuwa", "Tsonga", "Sena"],
+        "resposta": "Shona"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é a porcentagem de população idosa (65+ anos)?",
+        "opcoes": ["3%", "5%", "7%", "10%"],
+        "resposta": "3%"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é a principal razão para o crescimento populacional em Moçambique?",
+        "opcoes": ["Alta natalidade", "Imigração", "Baixa mortalidade", "Urbanização"],
+        "resposta": "Alta natalidade"
+      }
+    ],
+    "Politica": [
+      {
+        "id": 1,
+        "pergunta": "Qual é o atual presidente de Moçambique (em março de 2025)?",
+        "opcoes": ["Joaquim Chissano", "Armando Guebuza", "Filipe Nyusi", "Daniel Chapo"],
+        "resposta": "Daniel Chapo"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual partido governa Moçambique desde a independência?",
+        "opcoes": ["RENAMO", "FRELIMO", "MDM", "PIMO"],
+        "resposta": "FRELIMO"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é o principal partido de oposição em Moçambique?",
+        "opcoes": ["FRELIMO", "RENAMO", "MDM", "UNITA"],
+        "resposta": "RENAMO"
+      },
+      {
+        "id": 4,
+        "pergunta": "Em que ano foi assinada a Constituição atual de Moçambique?",
+        "opcoes": ["1990", "1975", "2004", "1986"],
+        "resposta": "2004"
+      },
+      {
+        "id": 5,
+        "pergunta": "Quantos anos dura o mandato presidencial em Moçambique?",
+        "opcoes": ["4 anos", "5 anos", "6 anos", "7 anos"],
+        "resposta": "5 anos"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual cidade é a sede do Parlamento moçambicano?",
+        "opcoes": ["Beira", "Nampula", "Maputo", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 7,
+        "pergunta": "Quem foi o líder da RENAMO por mais tempo?",
+        "opcoes": ["Afonso Dhlakama", "Ossufo Momade", "Daviz Simango", "Eduardo Mondlane"],
+        "resposta": "Afonso Dhlakama"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual foi o acordo de paz assinado em 1992?",
+        "opcoes": ["Acordo de Roma", "Acordo de Lusaka", "Acordo de Maputo", "Acordo de Tete"],
+        "resposta": "Acordo de Roma"
+      },
+      {
+        "id": 9,
+        "pergunta": "Quantos deputados compõem a Assembleia da República?",
+        "opcoes": ["200", "250", "300", "150"],
+        "resposta": "250"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual foi o ano das primeiras eleições multipartidárias?",
+        "opcoes": ["1990", "1994", "2000", "1975"],
+        "resposta": "1994"
+      },
+      {
+        "id": 11,
+        "pergunta": "Quem foi presidente de Moçambique de 1986 a 2005?",
+        "opcoes": ["Joaquim Chissano", "Samora Machel", "Armando Guebuza", "Filipe Nyusi"],
+        "resposta": "Joaquim Chissano"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual partido foi fundado por Daviz Simango?",
+        "opcoes": ["MDM", "RENAMO", "FRELIMO", "PIMO"],
+        "resposta": "MDM"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o sistema de governo de Moçambique?",
+        "opcoes": ["Monarquia", "República", "Ditadura", "Federativa"],
+        "resposta": "República"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual foi o ano de fundação da FRELIMO?",
+        "opcoes": ["1960", "1962", "1964", "1975"],
+        "resposta": "1962"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual líder da FRELIMO foi assassinado em 1969?",
+        "opcoes": ["Eduardo Mondlane", "Samora Machel", "Joaquim Chissano", "Filipe Nyusi"],
+        "resposta": "Eduardo Mondlane"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual cidade foi o berço do MDM?",
+        "opcoes": ["Beira", "Maputo", "Nampula", "Quelimane"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual foi o ano do Acordo de Paz de Maputo entre FRELIMO e RENAMO?",
+        "opcoes": ["2014", "2019", "2016", "2020"],
+        "resposta": "2019"
+      },
+      {
+        "id": 18,
+        "pergunta": "Quem é o atual líder da RENAMO (2025)?",
+        "opcoes": ["Ossufo Momade", "Afonso Dhlakama", "Daviz Simango", "Venâncio Mondlane"],
+        "resposta": "Ossufo Momade"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é o limite de mandatos presidenciais em Moçambique?",
+        "opcoes": ["1", "2", "3", "Sem limite"],
+        "resposta": "2"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual província é conhecida como reduto da RENAMO?",
+        "opcoes": ["Sofala", "Maputo", "Nampula", "Cabo Delgado"],
+        "resposta": "Sofala"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual foi o ano da independência de Moçambique?",
+        "opcoes": ["1964", "1975", "1980", "1992"],
+        "resposta": "1975"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual instituição organiza as eleições em Moçambique?",
+        "opcoes": ["CNE", "INE", "FRELIMO", "Parlamento"],
+        "resposta": "CNE"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual foi o primeiro presidente da Assembleia da República?",
+        "opcoes": ["Marcelino dos Santos", "Joaquim Chissano", "Samora Machel", "Eduardo Mondlane"],
+        "resposta": "Marcelino dos Santos"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual foi o ano da morte de Daviz Simango?",
+        "opcoes": ["2018", "2021", "2020", "2015"],
+        "resposta": "2021"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é o principal conflito político atual em Moçambique?",
+        "opcoes": ["Conflito em Cabo Delgado", "Guerra Civil", "Disputas eleitorais", "Revolta em Maputo"],
+        "resposta": "Conflito em Cabo Delgado"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual país mediou o Acordo de Roma?",
+        "opcoes": ["Itália", "Portugal", "França", "África do Sul"],
+        "resposta": "Itália"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual foi o ano da fundação do MDM?",
+        "opcoes": ["2005", "2009", "2010", "2015"],
+        "resposta": "2009"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é o número de províncias em Moçambique?",
+        "opcoes": ["8", "10", "11", "12"],
+        "resposta": "11"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual foi o ano da eleição de Filipe Nyusi como presidente?",
+        "opcoes": ["2010", "2015", "2020", "2019"],
+        "resposta": "2015"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é o principal órgão judicial de Moçambique?",
+        "opcoes": ["Tribunal Supremo", "Tribunal Constitucional", "Parlamento", "CNE"],
+        "resposta": "Tribunal Supremo"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual partido venceu as eleições de 1994?",
+        "opcoes": ["FRELIMO", "RENAMO", "MDM", "PIMO"],
+        "resposta": "FRELIMO"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual foi o ano da morte de Samora Machel?",
+        "opcoes": ["1980", "1986", "1990", "1992"],
+        "resposta": "1986"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é o lema da FRELIMO?",
+        "opcoes": ["Unidade, Trabalho, Progresso", "Paz e Desenvolvimento", "Liberdade e Justiça", "Igualdade para Todos"],
+        "resposta": "Unidade, Trabalho, Progresso"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual cidade foi palco de protestos após as eleições de 2019?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual foi o ano da criação da RENAMO?",
+        "opcoes": ["1975", "1977", "1980", "1986"],
+        "resposta": "1977"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é o principal aliado internacional de Moçambique?",
+        "opcoes": ["China", "Portugal", "África do Sul", "Estados Unidos"],
+        "resposta": "China"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual província é conhecida pelo apoio ao MDM?",
+        "opcoes": ["Sofala", "Maputo", "Nampula", "Zambezia"],
+        "resposta": "Sofala"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual foi o ano da Revolução dos Cravos em Portugal?",
+        "opcoes": ["1970", "1974", "1980", "1964"],
+        "resposta": "1974"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é o número de vereadores nas autarquias locais?",
+        "opcoes": ["Varia", "50", "100", "200"],
+        "resposta": "Varia"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual foi o primeiro chefe de governo após a independência?",
+        "opcoes": ["Samora Machel", "Joaquim Chissano", "Eduardo Mondlane", "Filipe Nyusi"],
+        "resposta": "Samora Machel"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é o principal tratado de paz recente?",
+        "opcoes": ["Acordo de Maputo 2019", "Acordo de Roma", "Acordo de Lusaka", "Tratado de Tete"],
+        "resposta": "Acordo de Maputo 2019"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual foi o ano da morte de Afonso Dhlakama?",
+        "opcoes": ["2015", "2018", "2020", "2010"],
+        "resposta": "2018"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é o principal órgão de supervisão eleitoral?",
+        "opcoes": ["CNE", "STAE", "Parlamento", "Tribunal Supremo"],
+        "resposta": "CNE"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual província foi mais afetada pelo conflito em Cabo Delgado?",
+        "opcoes": ["Cabo Delgado", "Nampula", "Niassa", "Zambezia"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual foi o ano da eleição de Armando Guebuza?",
+        "opcoes": ["2000", "2005", "2010", "2015"],
+        "resposta": "2005"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é o principal objetivo da Constituição de 2004?",
+        "opcoes": ["Democracia", "Socialismo", "Centralização", "Federalismo"],
+        "resposta": "Democracia"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual cidade é o centro político de Moçambique?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o número de mandatos máximos para deputados?",
+        "opcoes": ["2", "3", "Sem limite", "1"],
+        "resposta": "Sem limite"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual foi o ano da introdução do multipartidarismo?",
+        "opcoes": ["1990", "1994", "2000", "1975"],
+        "resposta": "1990"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal desafio político em Moçambique?",
+        "opcoes": ["Corrupção", "Conflito armado", "Descentralização", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      }
+    ],
+    "Economia": [
+      {
+        "id": 1,
+        "pergunta": "Qual é a principal atividade econômica de Moçambique?",
+        "opcoes": ["Mineração", "Agricultura", "Turismo", "Indústria"],
+        "resposta": "Agricultura"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual recurso natural pode transformar a economia moçambicana?",
+        "opcoes": ["Ouro", "Gás natural", "Diamantes", "Petróleo"],
+        "resposta": "Gás natural"
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual porto é o mais importante para o comércio em Moçambique?",
+        "opcoes": ["Porto de Maputo", "Porto de Beira", "Porto de Nacala", "Porto de Pemba"],
+        "resposta": "Porto de Maputo"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual é a moeda oficial de Moçambique?",
+        "opcoes": ["Rand", "Metical", "Kwacha", "Dólar"],
+        "resposta": "Metical"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é o principal produto de exportação agrícola de Moçambique?",
+        "opcoes": ["Café", "Caju", "Chá", "Milho"],
+        "resposta": "Caju"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual setor emprega a maioria da população moçambicana?",
+        "opcoes": ["Indústria", "Serviços", "Agricultura", "Mineração"],
+        "resposta": "Agricultura"
+      },
+      {
+        "id": 7,
+        "pergunta": "Em que região foi descoberto gás natural em grande escala?",
+        "opcoes": ["Bacia do Rovuma", "Bacia do Zambeze", "Bacia de Sofala", "Bacia de Inhambane"],
+        "resposta": "Bacia do Rovuma"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual país é o maior parceiro comercial de Moçambique?",
+        "opcoes": ["China", "África do Sul", "Índia", "Portugal"],
+        "resposta": "África do Sul"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual é a principal fonte de energia elétrica em Moçambique?",
+        "opcoes": ["Solar", "Hidroelétrica", "Eólica", "Carvão"],
+        "resposta": "Hidroelétrica"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual barragem é responsável por grande parte da energia de Moçambique?",
+        "opcoes": ["Barragem de Cahora Bassa", "Barragem de Nacala", "Barragem de Limpopo", "Barragem de Rovuma"],
+        "resposta": "Barragem de Cahora Bassa"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é o principal produto mineral exportado por Moçambique?",
+        "opcoes": ["Carvão", "Ouro", "Rubis", "Diamantes"],
+        "resposta": "Carvão"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual província é conhecida pela produção de carvão?",
+        "opcoes": ["Tete", "Manica", "Sofala", "Cabo Delgado"],
+        "resposta": "Tete"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o principal destino turístico de Moçambique?",
+        "opcoes": ["Arquipélago de Bazaruto", "Maputo", "Parque Nacional da Gorongosa", "Ilha de Moçambique"],
+        "resposta": "Arquipélago de Bazaruto"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é a principal cultura de subsistência em Moçambique?",
+        "opcoes": ["Milho", "Arroz", "Mandioca", "Feijão"],
+        "resposta": "Mandioca"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual porto é essencial para o comércio no norte de Moçambique?",
+        "opcoes": ["Porto de Nacala", "Porto de Maputo", "Porto de Beira", "Porto de Pemba"],
+        "resposta": "Porto de Nacala"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual é a principal empresa de energia em Moçambique?",
+        "opcoes": ["EDM", "ENH", "HCB", "Mozal"],
+        "resposta": "HCB"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual é o principal produto industrial exportado por Moçambique?",
+        "opcoes": ["Alumínio", "Aço", "Cimento", "Têxteis"],
+        "resposta": "Alumínio"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual empresa opera a produção de alumínio em Moçambique?",
+        "opcoes": ["Mozal", "ENH", "HCB", "EDM"],
+        "resposta": "Mozal"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual província é conhecida pela produção de chá?",
+        "opcoes": ["Zambezia", "Manica", "Sofala", "Niassa"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é a principal pesca comercial em Moçambique?",
+        "opcoes": ["Camarão", "Atum", "Sardinha", "Bacalhau"],
+        "resposta": "Camarão"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual cidade é o centro da indústria de alumínio?",
+        "opcoes": ["Maputo", "Matola", "Beira", "Nampula"],
+        "resposta": "Matola"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o principal mercado de exportação do gás natural?",
+        "opcoes": ["Europa", "Ásia", "África", "América"],
+        "resposta": "Ásia"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual província é conhecida pela produção de rubis?",
+        "opcoes": ["Cabo Delgado", "Tete", "Manica", "Niassa"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é o principal produto agrícola de exportação além do caju?",
+        "opcoes": ["Açúcar", "Algodão", "Chá", "Tabaco"],
+        "resposta": "Açúcar"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é a principal fonte de renda no sul de Moçambique?",
+        "opcoes": ["Turismo", "Agricultura", "Mineração", "Indústria"],
+        "resposta": "Turismo"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual cidade é o centro da pesca comercial?",
+        "opcoes": ["Beira", "Maputo", "Inhambane", "Quelimane"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o principal recurso mineral do norte de Moçambique?",
+        "opcoes": ["Gás natural", "Carvão", "Ouro", "Rubis"],
+        "resposta": "Gás natural"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual província é conhecida pela produção de algodão?",
+        "opcoes": ["Nampula", "Tete", "Sofala", "Manica"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é o principal parceiro na exploração de gás natural?",
+        "opcoes": ["Total", "ENI", "ExxonMobil", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual é a principal cultura de exportação da província de Sofala?",
+        "opcoes": ["Açúcar", "Caju", "Chá", "Algodão"],
+        "resposta": "Açúcar"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o principal obstáculo econômico em Moçambique?",
+        "opcoes": ["Infraestrutura", "Corrupção", "Falta de mão de obra", "Todas as anteriores"],
+        "resposta": "Infraestrutura"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual cidade é o centro financeiro de Moçambique?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Matola"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é o principal produto de exportação da província de Inhambane?",
+        "opcoes": ["Coco", "Caju", "Açúcar", "Chá"],
+        "resposta": "Coco"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é a principal fonte de divisas além da agricultura?",
+        "opcoes": ["Mineração", "Turismo", "Indústria", "Remessas"],
+        "resposta": "Mineração"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual província é conhecida pela produção de ouro?",
+        "opcoes": ["Manica", "Tete", "Cabo Delgado", "Niassa"],
+        "resposta": "Manica"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual é o principal porto para exportação de carvão?",
+        "opcoes": ["Porto de Beira", "Porto de Maputo", "Porto de Nacala", "Porto de Pemba"],
+        "resposta": "Porto de Beira"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é a principal cultura de subsistência no norte?",
+        "opcoes": ["Milho", "Mandioca", "Arroz", "Feijão"],
+        "resposta": "Mandioca"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é o principal setor em crescimento em Moçambique?",
+        "opcoes": ["Turismo", "Mineração", "Agricultura", "Indústria"],
+        "resposta": "Mineração"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual cidade é o centro da produção de açúcar?",
+        "opcoes": ["Beira", "Maputo", "Xai-Xai", "Quelimane"],
+        "resposta": "Xai-Xai"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o principal recurso renovável de Moçambique?",
+        "opcoes": ["Energia hidroelétrica", "Energia solar", "Energia eólica", "Biomassa"],
+        "resposta": "Energia hidroelétrica"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual província é conhecida pela produção de tabaco?",
+        "opcoes": ["Tete", "Niassa", "Manica", "Sofala"],
+        "resposta": "Tete"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o principal mercado para o alumínio moçambicano?",
+        "opcoes": ["Europa", "Ásia", "África", "América"],
+        "resposta": "Europa"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é a principal pesca de subsistência?",
+        "opcoes": ["Tilápia", "Camarão", "Atum", "Sardinha"],
+        "resposta": "Tilápia"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é o principal recurso explorado em Cabo Delgado?",
+        "opcoes": ["Gás natural", "Carvão", "Ouro", "Açúcar"],
+        "resposta": "Gás natural"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual cidade é o centro da produção de caju?",
+        "opcoes": ["Nampula", "Maputo", "Beira", "Quelimane"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual é a principal fonte de energia exportada?",
+        "opcoes": ["Hidroelétrica", "Carvão", "Gás natural", "Solar"],
+        "resposta": "Hidroelétrica"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual província é conhecida pela produção de milho?",
+        "opcoes": ["Sofala", "Manica", "Tete", "Zambezia"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é o principal setor de serviços em Moçambique?",
+        "opcoes": ["Transportes", "Turismo", "Telecomunicações", "Bancos"],
+        "resposta": "Transportes"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é o principal produto de exportação da província de Gaza?",
+        "opcoes": ["Açúcar", "Caju", "Algodão", "Arroz"],
+        "resposta": "Arroz"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal desafio para o crescimento industrial?",
+        "opcoes": ["Falta de energia", "Falta de infraestrutura", "Falta de mão de obra", "Todas as anteriores"],
+        "resposta": "Falta de infraestrutura"
+      }
+    ],
+    "Geografia": [
+      {
+        "id": 1,
+        "pergunta": "Qual é a capital atual de Moçambique?",
+        "opcoes": ["Beira", "Nampula", "Maputo", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual rio é o mais longo de Moçambique?",
+        "opcoes": ["Rio Zambeze", "Rio Limpopo", "Rio Rovuma", "Rio Save"],
+        "resposta": "Rio Zambeze"
+      },
+      {
+        "id": 3,
+        "pergunta": "Moçambique está localizado em qual parte da África?",
+        "opcoes": ["África Ocidental", "África Oriental", "África Central", "África do Norte"],
+        "resposta": "África Oriental"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual oceano banha a costa de Moçambique?",
+        "opcoes": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+        "resposta": "Índico"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é a maior ilha do arquipélago de Bazaruto?",
+        "opcoes": ["Ilha de Benguerra", "Ilha de Bazaruto", "Ilha de Santa Carolina", "Ilha de Magaruque"],
+        "resposta": "Ilha de Bazaruto"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual país faz fronteira com Moçambique ao norte?",
+        "opcoes": ["Zâmbia", "Tanzânia", "Malawi", "África do Sul"],
+        "resposta": "Tanzânia"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual é o ponto mais alto de Moçambique?",
+        "opcoes": ["Monte Namuli", "Monte Binga", "Monte Gorongosa", "Monte Mabu"],
+        "resposta": "Monte Binga"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual canal separa Moçambique da ilha de Madagascar?",
+        "opcoes": ["Canal de Suez", "Canal de Moçambique", "Canal da Mancha", "Canal de Panamá"],
+        "resposta": "Canal de Moçambique"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual é a segunda maior cidade de Moçambique?",
+        "opcoes": ["Beira", "Nampula", "Matola", "Quelimane"],
+        "resposta": "Nampula"
+      },
+      {
+        "id": 10,
+        "pergunta": "Quantos países fazem fronteira terrestre com Moçambique?",
+        "opcoes": ["4", "5", "6", "7"],
+        "resposta": "6"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é a maior província de Moçambique em área?",
+        "opcoes": ["Niassa", "Zambezia", "Tete", "Cabo Delgado"],
+        "resposta": "Niassa"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual cidade é conhecida como a 'capital econômica' de Moçambique?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Matola"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o maior parque nacional de Moçambique?",
+        "opcoes": ["Parque Nacional da Gorongosa", "Reserva do Niassa", "Parque Nacional de Bazaruto", "Parque Nacional de Zinave"],
+        "resposta": "Reserva do Niassa"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual província abriga o Monte Namuli?",
+        "opcoes": ["Zambezia", "Manica", "Sofala", "Tete"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é a principal ilha histórica de Moçambique?",
+        "opcoes": ["Ilha de Moçambique", "Ilha de Inhaca", "Ilha de Bazaruto", "Ilha de Vamizi"],
+        "resposta": "Ilha de Moçambique"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual país faz fronteira com Moçambique ao sul?",
+        "opcoes": ["África do Sul", "Zâmbia", "Malawi", "Tanzânia"],
+        "resposta": "África do Sul"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual é o clima predominante em Moçambique?",
+        "opcoes": ["Tropical", "Desértico", "Temperado", "Polar"],
+        "resposta": "Tropical"
+      },
+      {
+        "id": 18,
+        "pergunta": "Qual cidade é o principal porto do norte de Moçambique?",
+        "opcoes": ["Nacala", "Pemba", "Quelimane", "Beira"],
+        "resposta": "Nacala"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual província é conhecida pelo Lago Niassa?",
+        "opcoes": ["Niassa", "Cabo Delgado", "Tete", "Zambezia"],
+        "resposta": "Niassa"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é a maior cidade da província de Sofala?",
+        "opcoes": ["Beira", "Chimoio", "Dondo", "Manica"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual é a extensão aproximada da costa moçambicana?",
+        "opcoes": ["1.000 km", "2.500 km", "3.500 km", "4.000 km"],
+        "resposta": "2.500 km"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual província abriga o arquipélago de Bazaruto?",
+        "opcoes": ["Inhambane", "Sofala", "Maputo", "Zambezia"],
+        "resposta": "Inhambane"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual cidade é conhecida como a 'cidade das acácias'?",
+        "opcoes": ["Maputo", "Beira", "Chimoio", "Nampula"],
+        "resposta": "Chimoio"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é o principal tipo de vegetação na costa de Moçambique?",
+        "opcoes": ["Savana", "Floresta tropical", "Deserto", "Estepe"],
+        "resposta": "Savana"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual província é cortada pelo Trópico de Capricórnio?",
+        "opcoes": ["Gaza", "Inhambane", "Maputo", "Sofala"],
+        "resposta": "Inhambane"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual cidade é o centro administrativo da província de Niassa?",
+        "opcoes": ["Lichinga", "Cuamba", "Mandimba", "Marrupa"],
+        "resposta": "Lichinga"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é a principal ilha do arquipélago das Quirimbas?",
+        "opcoes": ["Ilha do Ibo", "Ilha de Matemo", "Ilha de Quirimba", "Ilha de Vamizi"],
+        "resposta": "Ilha do Ibo"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual província abriga o Monte Gorongosa?",
+        "opcoes": ["Sofala", "Manica", "Zambezia", "Tete"],
+        "resposta": "Sofala"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é a maior cidade da província de Zambezia?",
+        "opcoes": ["Quelimane", "Gurué", "Mocuba", "Milange"],
+        "resposta": "Quelimane"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual país faz fronteira com Moçambique a oeste?",
+        "opcoes": ["Malawi", "Tanzânia", "África do Sul", "Zâmbia"],
+        "resposta": "Malawi"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é a principal reserva de vida selvagem no sul de Moçambique?",
+        "opcoes": ["Reserva de Maputo", "Parque Nacional de Zinave", "Parque Nacional de Bazaruto", "Reserva do Niassa"],
+        "resposta": "Reserva de Maputo"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual cidade é conhecida por suas praias no sul de Moçambique?",
+        "opcoes": ["Xai-Xai", "Maputo", "Inhambane", "Vilankulo"],
+        "resposta": "Xai-Xai"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual província é famosa pelo turismo nas Quirimbas?",
+        "opcoes": ["Cabo Delgado", "Nampula", "Niassa", "Zambezia"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é a área aproximada de Moçambique?",
+        "opcoes": ["500.000 km²", "801.590 km²", "1.000.000 km²", "300.000 km²"],
+        "resposta": "801.590 km²"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual cidade é o principal porto da província de Zambezia?",
+        "opcoes": ["Quelimane", "Mocuba", "Gurué", "Milange"],
+        "resposta": "Quelimane"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual província abriga o Monte Mabu?",
+        "opcoes": ["Zambezia", "Sofala", "Manica", "Tete"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é a principal praia da cidade de Maputo?",
+        "opcoes": ["Praia da Costa do Sol", "Praia de Xai-Xai", "Praia de Vilankulo", "Praia de Tofo"],
+        "resposta": "Praia da Costa do Sol"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual cidade é o centro da província de Manica?",
+        "opcoes": ["Chimoio", "Manica", "Catandica", "Gondola"],
+        "resposta": "Chimoio"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual província é conhecida pela produção de chá?",
+        "opcoes": ["Zambezia", "Manica", "Sofala", "Niassa"],
+        "resposta": "Zambezia"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o principal tipo de solo na costa moçambicana?",
+        "opcoes": ["Arenoso", "Argiloso", "Rochoso", "Fértil"],
+        "resposta": "Arenoso"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual cidade é conhecida como a 'cidade das flores'?",
+        "opcoes": ["Nampula", "Maputo", "Beira", "Lichinga"],
+        "resposta": "Lichinga"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual província abriga o Planalto de Mueda?",
+        "opcoes": ["Cabo Delgado", "Niassa", "Nampula", "Zambezia"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é a principal cidade da província de Gaza?",
+        "opcoes": ["Xai-Xai", "Chokwé", "Macia", "Chibuto"],
+        "resposta": "Xai-Xai"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é o maior lago de Moçambique?",
+        "opcoes": ["Lago Niassa", "Lago Cahora Bassa", "Lago Chiuta", "Lago Chiramba"],
+        "resposta": "Lago Niassa"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual província é conhecida pela Barragem de Cahora Bassa?",
+        "opcoes": ["Tete", "Manica", "Sofala", "Zambezia"],
+        "resposta": "Tete"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual cidade é o principal porto da província de Inhambane?",
+        "opcoes": ["Inhambane", "Maxixe", "Vilankulo", "Tofo"],
+        "resposta": "Inhambane"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é a principal formação geológica do norte de Moçambique?",
+        "opcoes": ["Planalto", "Planície", "Montanhas", "Vales"],
+        "resposta": "Planalto"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual província abriga a Reserva de Maputo?",
+        "opcoes": ["Maputo", "Gaza", "Inhambane", "Sofala"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual cidade é conhecida por suas dunas de areia?",
+        "opcoes": ["Vilankulo", "Maputo", "Beira", "Xai-Xai"],
+        "resposta": "Vilankulo"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é a principal característica geográfica do interior de Moçambique?",
+        "opcoes": ["Planalto", "Planície", "Montanhas", "Deserto"],
+        "resposta": "Planalto"
+      }
+    ],
+
+    "Historia": [
+      {
+        "id": 1,
+        "pergunta": "Em que ano Moçambique conquistou a independência de Portugal?",
+        "opcoes": ["1964", "1975", "1980", "1992"],
+        "resposta": "1975"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual organização liderou a luta pela independência de Moçambique?",
+        "opcoes": ["RENAMO", "FRELIMO", "MDM", "SWAPO"],
+        "resposta": "FRELIMO"
+      },
+      {
+        "id": 3,
+        "pergunta": "Quem foi o primeiro presidente de Moçambique após a independência?",
+        "opcoes": ["Joaquim Chissano", "Samora Machel", "Filipe Nyusi", "Armando Guebuza"],
+        "resposta": "Samora Machel"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual evento em Portugal acelerou a independência de Moçambique?",
+        "opcoes": ["Revolução dos Cravos", "Guerra Civil Portuguesa", "Revolução Industrial", "Invasão Napoleônica"],
+        "resposta": "Revolução dos Cravos"
+      },
+      {
+        "id": 5,
+        "pergunta": "Durante quantos anos Moçambique foi colônia portuguesa?",
+        "opcoes": ["200 anos", "300 anos", "470 anos", "100 anos"],
+        "resposta": "470 anos"
+      },
+      {
+        "id": 6,
+        "pergunta": "Qual era o nome da capital de Moçambique durante o período colonial?",
+        "opcoes": ["Maputo", "Lourenço Marques", "Beira", "Nampula"],
+        "resposta": "Lourenço Marques"
+      },
+      {
+        "id": 7,
+        "pergunta": "Em que ano começou a Guerra de Independência de Moçambique?",
+        "opcoes": ["1960", "1964", "1970", "1975"],
+        "resposta": "1964"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual país vizinho apoiou a luta pela independência moçambicana?",
+        "opcoes": ["África do Sul", "Tanzânia", "Zimbábue", "Zâmbia"],
+        "resposta": "Tanzânia"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual acordo formalizou a independência de Moçambique?",
+        "opcoes": ["Acordo de Lusaka", "Acordo de Maputo", "Tratado de Tete", "Pacto de Nampula"],
+        "resposta": "Acordo de Lusaka"
+      },
+      {
+        "id": 10,
+        "pergunta": "Quem sucedeu Samora Machel como presidente após sua morte?",
+        "opcoes": ["Joaquim Chissano", "Filipe Nyusi", "Armando Guebuza", "Eduardo Mondlane"],
+        "resposta": "Joaquim Chissano"
+      },
+      {
+        "id": 11,
+        "pergunta": "Em que ano ocorreu o acidente aéreo que matou Samora Machel?",
+        "opcoes": ["1980", "1986", "1990", "1992"],
+        "resposta": "1986"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual explorador português chegou a Moçambique em 1498?",
+        "opcoes": ["Vasco da Gama", "Bartolomeu Dias", "Pedro Álvares Cabral", "Fernão de Magalhães"],
+        "resposta": "Vasco da Gama"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual foi o principal produto exportado por Moçambique durante o período colonial?",
+        "opcoes": ["Ouro", "Escravos", "Marfim", "Algodão"],
+        "resposta": "Escravos"
+      },
+      {
+        "id": 14,
+        "pergunta": "Em que ano começou a Guerra Civil em Moçambique?",
+        "opcoes": ["1975", "1977", "1980", "1986"],
+        "resposta": "1977"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual acordo encerrou a Guerra Civil em Moçambique?",
+        "opcoes": ["Acordo de Roma", "Acordo de Lusaka", "Acordo de Maputo", "Tratado de Tete"],
+        "resposta": "Acordo de Roma"
+      },
+      {
+        "id": 16,
+        "pergunta": "Quem fundou a FRELIMO em 1962?",
+        "opcoes": ["Eduardo Mondlane", "Samora Machel", "Joaquim Chissano", "Filipe Nyusi"],
+        "resposta": "Eduardo Mondlane"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual cidade foi o principal porto colonial de Moçambique?",
+        "opcoes": ["Maputo", "Beira", "Nacala", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 18,
+        "pergunta": "Em que ano Eduardo Mondlane foi assassinado?",
+        "opcoes": ["1969", "1975", "1980", "1964"],
+        "resposta": "1969"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual país colonizou Moçambique antes de Portugal?",
+        "opcoes": ["Espanha", "Inglaterra", "Nenhum", "França"],
+        "resposta": "Nenhum"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual foi a principal base da FRELIMO durante a luta armada?",
+        "opcoes": ["Dar es Salaam", "Maputo", "Beira", "Nampula"],
+        "resposta": "Dar es Salaam"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual foi o ano das primeiras eleições multipartidárias?",
+        "opcoes": ["1990", "1994", "2000", "1975"],
+        "resposta": "1994"
+      },
+      {
+        "id": 22,
+        "pergunta": "Quem foi presidente de Moçambique entre 2005 e 2015?",
+        "opcoes": ["Armando Guebuza", "Joaquim Chissano", "Filipe Nyusi", "Samora Machel"],
+        "resposta": "Armando Guebuza"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual cidade foi o centro da resistência colonial no norte?",
+        "opcoes": ["Pemba", "Nampula", "Quelimane", "Lichinga"],
+        "resposta": "Pemba"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual foi o principal inimigo da FRELIMO na Guerra Civil?",
+        "opcoes": ["RENAMO", "MDM", "SWAPO", "UNITA"],
+        "resposta": "RENAMO"
+      },
+      {
+        "id": 25,
+        "pergunta": "Em que ano a RENAMO foi fundada?",
+        "opcoes": ["1975", "1977", "1980", "1986"],
+        "resposta": "1977"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual líder colonial português governou Moçambique no século XIX?",
+        "opcoes": ["António Enes", "Mouzinho de Albuquerque", "João de Almeida", "Francisco Barreto"],
+        "resposta": "Mouzinho de Albuquerque"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual foi o primeiro forte português construído em Moçambique?",
+        "opcoes": ["Forte de Sofala", "Forte de São Sebastião", "Forte de Maputo", "Forte de Tete"],
+        "resposta": "Forte de Sofala"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual ilha foi um importante entreposto comercial no período colonial?",
+        "opcoes": ["Ilha de Moçambique", "Ilha de Bazaruto", "Ilha de Inhaca", "Ilha de Vamizi"],
+        "resposta": "Ilha de Moçambique"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual foi o ano da Revolução dos Cravos em Portugal?",
+        "opcoes": ["1970", "1974", "1980", "1964"],
+        "resposta": "1974"
+      },
+      {
+        "id": 30,
+        "pergunta": "Quem liderou a RENAMO durante a Guerra Civil?",
+        "opcoes": ["Afonso Dhlakama", "Ossufo Momade", "Daviz Simango", "Samora Machel"],
+        "resposta": "Afonso Dhlakama"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual país apoiou a RENAMO durante a Guerra Civil?",
+        "opcoes": ["África do Sul", "Tanzânia", "Zâmbia", "Malawi"],
+        "resposta": "África do Sul"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual foi o principal tratado comercial colonial em Moçambique?",
+        "opcoes": ["Tratado de Tete", "Tratado de Sofala", "Tratado de Lourenço Marques", "Nenhum"],
+        "resposta": "Nenhum"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual foi o ano da chegada dos árabes à costa moçambicana?",
+        "opcoes": ["Século VII", "Século X", "Século XV", "Século XII"],
+        "resposta": "Século X"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual cidade foi capital de Moçambique antes de Lourenço Marques?",
+        "opcoes": ["Ilha de Moçambique", "Beira", "Quelimane", "Nampula"],
+        "resposta": "Ilha de Moçambique"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual foi o principal recurso explorado pelos portugueses no século XVI?",
+        "opcoes": ["Ouro", "Marfim", "Escravos", "Algodão"],
+        "resposta": "Marfim"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual batalha marcou o início da Guerra de Independência?",
+        "opcoes": ["Batalha de Mueda", "Batalha de Maputo", "Batalha de Tete", "Batalha de Nampula"],
+        "resposta": "Batalha de Mueda"
+      },
+      {
+        "id": 37,
+        "pergunta": "Em que ano ocorreu a Batalha de Mueda?",
+        "opcoes": ["1960", "1964", "1970", "1975"],
+        "resposta": "1960"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual foi o principal líder colonial no século XX?",
+        "opcoes": ["António Salazar", "Marcelo Caetano", "João de Almeida", "Mouzinho de Albuquerque"],
+        "resposta": "António Salazar"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual foi o ano de fundação da Ilha de Moçambique como capital?",
+        "opcoes": ["1507", "1600", "1700", "1800"],
+        "resposta": "1507"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual foi o principal motivo da Guerra Civil?",
+        "opcoes": ["Disputas políticas", "Recursos naturais", "Conflito étnico", "Religião"],
+        "resposta": "Disputas políticas"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual cidade foi mais afetada pela Guerra Civil?",
+        "opcoes": ["Beira", "Maputo", "Nampula", "Quelimane"],
+        "resposta": "Beira"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual foi o ano da morte de Afonso Dhlakama?",
+        "opcoes": ["2015", "2018", "2020", "2010"],
+        "resposta": "2018"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual foi o principal aliado de Portugal em Moçambique?",
+        "opcoes": ["Inglaterra", "Espanha", "Nenhum", "França"],
+        "resposta": "Inglaterra"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual foi o ano da introdução do sistema de prazos em Moçambique?",
+        "opcoes": ["Século XVI", "Século XVII", "Século XVIII", "Século XIX"],
+        "resposta": "Século XVII"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual foi o principal produto comercializado pelos árabes antes dos portugueses?",
+        "opcoes": ["Ouro", "Marfim", "Escravos", "Especiarias"],
+        "resposta": "Ouro"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual cidade foi um centro de comércio de escravos no século XVIII?",
+        "opcoes": ["Ilha de Moçambique", "Maputo", "Beira", "Nampula"],
+        "resposta": "Ilha de Moçambique"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual foi o ano da assinatura do Acordo de Roma?",
+        "opcoes": ["1990", "1992", "1994", "1996"],
+        "resposta": "1992"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual foi o principal conflito armado após 2015 em Moçambique?",
+        "opcoes": ["Conflito em Cabo Delgado", "Guerra Civil", "Revolta de Maputo", "Conflito de Nampula"],
+        "resposta": "Conflito em Cabo Delgado"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual foi o primeiro jornal publicado em Moçambique?",
+        "opcoes": ["O Africano", "Notícias", "O País", "A Verdade"],
+        "resposta": "O Africano"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual foi o ano da abolição da escravatura em Moçambique?",
+        "opcoes": ["1836", "1858", "1878", "1900"],
+        "resposta": "1878"
+      }
+    ],
+  
+    "Educacao": [
+      {
+        "id": 1,
+        "pergunta": "Qual é o idioma oficial usado no sistema educacional de Moçambique?",
+        "opcoes": ["Swahili", "Português", "Inglês", "Makhuwa"],
+        "resposta": "Português"
+      },
+      {
+        "id": 2,
+        "pergunta": "Qual é a maior universidade de Moçambique?",
+        "opcoes": ["Universidade Eduardo Mondlane", "Universidade Pedagógica", "Universidade Católica", "Universidade Lúrio"],
+        "resposta": "Universidade Eduardo Mondlane"
+      },
+      {
+        "id": 3,
+        "pergunta": "Em que cidade está localizada a Universidade Eduardo Mondlane?",
+        "opcoes": ["Beira", "Nampula", "Maputo", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 4,
+        "pergunta": "Qual é a taxa de alfabetização aproximada em Moçambique (2025)?",
+        "opcoes": ["40%", "50%", "60%", "70%"],
+        "resposta": "60%"
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é o nível de ensino obrigatório em Moçambique?",
+        "opcoes": ["Primário", "Secundário", "Pré-escolar", "Superior"],
+        "resposta": "Primário"
+      },
+      {
+        "id": 6,
+        "pergunta": "Quantos anos dura o ensino primário em Moçambique?",
+        "opcoes": ["5 anos", "7 anos", "9 anos", "10 anos"],
+        "resposta": "7 anos"
+      },
+      {
+        "id": 7,
+        "pergunta": "Qual universidade tem campi em várias províncias de Moçambique?",
+        "opcoes": ["Universidade Pedagógica", "Universidade Eduardo Mondlane", "Universidade Lúrio", "Universidade Zambeze"],
+        "resposta": "Universidade Pedagógica"
+      },
+      {
+        "id": 8,
+        "pergunta": "Qual é o principal desafio para a educação em Moçambique?",
+        "opcoes": ["Falta de professores", "Falta de escolas", "Falta de materiais", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      },
+      {
+        "id": 9,
+        "pergunta": "Qual é o nome do exame nacional para o ensino secundário?",
+        "opcoes": ["Exame Geral", "Exame Nacional", "Exame Final", "Exame de Admissão"],
+        "resposta": "Exame Nacional"
+      },
+      {
+        "id": 10,
+        "pergunta": "Qual província tem a maior taxa de alfabetização em Moçambique?",
+        "opcoes": ["Maputo", "Nampula", "Sofala", "Cabo Delgado"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 11,
+        "pergunta": "Qual é a idade mínima para ingressar no ensino primário?",
+        "opcoes": ["5 anos", "6 anos", "7 anos", "8 anos"],
+        "resposta": "6 anos"
+      },
+      {
+        "id": 12,
+        "pergunta": "Qual universidade é conhecida por formar professores em Moçambique?",
+        "opcoes": ["Universidade Pedagógica", "Universidade Eduardo Mondlane", "Universidade Lúrio", "Universidade Católica"],
+        "resposta": "Universidade Pedagógica"
+      },
+      {
+        "id": 13,
+        "pergunta": "Qual é o principal idioma local usado nas escolas rurais?",
+        "opcoes": ["Makhuwa", "Tsonga", "Sena", "Nenhum"],
+        "resposta": "Makhuwa"
+      },
+      {
+        "id": 14,
+        "pergunta": "Qual é o número aproximado de alunos por professor no ensino primário?",
+        "opcoes": ["20", "40", "60", "80"],
+        "resposta": "60"
+      },
+      {
+        "id": 15,
+        "pergunta": "Qual é o ano de fundação da Universidade Eduardo Mondlane?",
+        "opcoes": ["1962", "1975", "1980", "1990"],
+        "resposta": "1962"
+      },
+      {
+        "id": 16,
+        "pergunta": "Qual é o principal programa governamental para melhorar a educação?",
+        "opcoes": ["Educação para Todos", "Escola Nova", "Aprender Mais", "Saber Mais"],
+        "resposta": "Educação para Todos"
+      },
+      {
+        "id": 17,
+        "pergunta": "Qual universidade está localizada em Nampula?",
+        "opcoes": ["Universidade Lúrio", "Universidade Eduardo Mondlane", "Universidade Pedagógica", "Universidade Zambeze"],
+        "resposta": "Universidade Lúrio"
+      },
+      {
+        "id": 18,
+        "pergunta": "Quantos anos dura o ensino secundário em Moçambique?",
+        "opcoes": ["3 anos", "5 anos", "6 anos", "7 anos"],
+        "resposta": "5 anos"
+      },
+      {
+        "id": 19,
+        "pergunta": "Qual é a principal fonte de financiamento da educação em Moçambique?",
+        "opcoes": ["Governo", "Doadores internacionais", "Taxas escolares", "Empresas privadas"],
+        "resposta": "Doadores internacionais"
+      },
+      {
+        "id": 20,
+        "pergunta": "Qual é a taxa de abandono escolar mais alta em Moçambique?",
+        "opcoes": ["Ensino primário", "Ensino secundário", "Ensino superior", "Pré-escolar"],
+        "resposta": "Ensino secundário"
+      },
+      {
+        "id": 21,
+        "pergunta": "Qual cidade tem o maior número de escolas secundárias?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Matola"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 22,
+        "pergunta": "Qual é o principal obstáculo para a alfabetização de adultos?",
+        "opcoes": ["Falta de professores", "Falta de acesso", "Falta de interesse", "Falta de materiais"],
+        "resposta": "Falta de acesso"
+      },
+      {
+        "id": 23,
+        "pergunta": "Qual universidade foi criada para atender o norte de Moçambique?",
+        "opcoes": ["Universidade Lúrio", "Universidade Eduardo Mondlane", "Universidade Pedagógica", "Universidade Zambeze"],
+        "resposta": "Universidade Lúrio"
+      },
+      {
+        "id": 24,
+        "pergunta": "Qual é a duração do ensino pré-escolar em Moçambique?",
+        "opcoes": ["1 ano", "2 anos", "3 anos", "4 anos"],
+        "resposta": "2 anos"
+      },
+      {
+        "id": 25,
+        "pergunta": "Qual é o principal curso oferecido pela Universidade Zambeze?",
+        "opcoes": ["Engenharia", "Medicina", "Educação", "Agricultura"],
+        "resposta": "Agricultura"
+      },
+      {
+        "id": 26,
+        "pergunta": "Qual província tem a menor taxa de alfabetização?",
+        "opcoes": ["Cabo Delgado", "Niassa", "Tete", "Zambezia"],
+        "resposta": "Cabo Delgado"
+      },
+      {
+        "id": 27,
+        "pergunta": "Qual é o número aproximado de escolas primárias em Moçambique?",
+        "opcoes": ["5.000", "10.000", "15.000", "20.000"],
+        "resposta": "15.000"
+      },
+      {
+        "id": 28,
+        "pergunta": "Qual é o principal método de ensino nas zonas rurais?",
+        "opcoes": ["Bilingue", "Português", "Línguas locais", "Inglês"],
+        "resposta": "Bilingue"
+      },
+      {
+        "id": 29,
+        "pergunta": "Qual é a idade máxima para o ensino secundário gratuito?",
+        "opcoes": ["16 anos", "18 anos", "20 anos", "22 anos"],
+        "resposta": "18 anos"
+      },
+      {
+        "id": 30,
+        "pergunta": "Qual universidade está localizada em Beira?",
+        "opcoes": ["Universidade Zambeze", "Universidade Eduardo Mondlane", "Universidade Lúrio", "Universidade Pedagógica"],
+        "resposta": "Universidade Zambeze"
+      },
+      {
+        "id": 31,
+        "pergunta": "Qual é o principal foco da educação primária em Moçambique?",
+        "opcoes": ["Matemática", "Leitura e escrita", "Ciências", "Educação física"],
+        "resposta": "Leitura e escrita"
+      },
+      {
+        "id": 32,
+        "pergunta": "Qual é o número aproximado de professores em Moçambique?",
+        "opcoes": ["50.000", "100.000", "150.000", "200.000"],
+        "resposta": "100.000"
+      },
+      {
+        "id": 33,
+        "pergunta": "Qual é a principal iniciativa para meninas na educação?",
+        "opcoes": ["Meninas na Escola", "Educação para Todos", "Escola Segura", "Aprender Mais"],
+        "resposta": "Meninas na Escola"
+      },
+      {
+        "id": 34,
+        "pergunta": "Qual é o ano de fundação da Universidade Pedagógica?",
+        "opcoes": ["1985", "1990", "1995", "2000"],
+        "resposta": "1985"
+      },
+      {
+        "id": 35,
+        "pergunta": "Qual é a principal causa de evasão escolar em Moçambique?",
+        "opcoes": ["Pobreza", "Distância", "Casamento precoce", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      },
+      {
+        "id": 36,
+        "pergunta": "Qual cidade tem a maior universidade privada de Moçambique?",
+        "opcoes": ["Maputo", "Beira", "Nampula", "Quelimane"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 37,
+        "pergunta": "Qual é o principal parceiro internacional na educação moçambicana?",
+        "opcoes": ["UNESCO", "Banco Mundial", "UNICEF", "USAID"],
+        "resposta": "UNICEF"
+      },
+      {
+        "id": 38,
+        "pergunta": "Qual é a taxa de matrícula no ensino secundário em Moçambique?",
+        "opcoes": ["20%", "30%", "40%", "50%"],
+        "resposta": "30%"
+      },
+      {
+        "id": 39,
+        "pergunta": "Qual é o principal curso da Universidade Lúrio?",
+        "opcoes": ["Medicina", "Engenharia", "Educação", "Agricultura"],
+        "resposta": "Medicina"
+      },
+      {
+        "id": 40,
+        "pergunta": "Qual é o número aproximado de alunos no ensino superior?",
+        "opcoes": ["50.000", "100.000", "150.000", "200.000"],
+        "resposta": "100.000"
+      },
+      {
+        "id": 41,
+        "pergunta": "Qual é a principal língua usada nas universidades?",
+        "opcoes": ["Português", "Inglês", "Makhuwa", "Tsonga"],
+        "resposta": "Português"
+      },
+      {
+        "id": 42,
+        "pergunta": "Qual é o ano de introdução do ensino bilingue em Moçambique?",
+        "opcoes": ["2000", "2005", "2010", "2015"],
+        "resposta": "2005"
+      },
+      {
+        "id": 43,
+        "pergunta": "Qual é a principal universidade católica de Moçambique?",
+        "opcoes": ["Universidade Católica", "Universidade Eduardo Mondlane", "Universidade Lúrio", "Universidade Zambeze"],
+        "resposta": "Universidade Católica"
+      },
+      {
+        "id": 44,
+        "pergunta": "Qual é a taxa de matrícula no ensino primário em Moçambique?",
+        "opcoes": ["60%", "70%", "80%", "90%"],
+        "resposta": "90%"
+      },
+      {
+        "id": 45,
+        "pergunta": "Qual é o principal objetivo da educação bilingue?",
+        "opcoes": ["Inclusão", "Alfabetização", "Diversidade", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      },
+      {
+        "id": 46,
+        "pergunta": "Qual província tem o maior número de universidades?",
+        "opcoes": ["Maputo", "Sofala", "Nampula", "Zambezia"],
+        "resposta": "Maputo"
+      },
+      {
+        "id": 47,
+        "pergunta": "Qual é o principal material didático nas escolas rurais?",
+        "opcoes": ["Livros", "Cadernos", "Quadros", "Computadores"],
+        "resposta": "Livros"
+      },
+      {
+        "id": 48,
+        "pergunta": "Qual é a idade média de conclusão do ensino secundário?",
+        "opcoes": ["16 anos", "18 anos", "20 anos", "22 anos"],
+        "resposta": "18 anos"
+      },
+      {
+        "id": 49,
+        "pergunta": "Qual é o principal curso técnico oferecido em Moçambique?",
+        "opcoes": ["Mecânica", "Agricultura", "Informática", "Construção"],
+        "resposta": "Agricultura"
+      },
+      {
+        "id": 50,
+        "pergunta": "Qual é o principal desafio para o ensino superior em Moçambique?",
+        "opcoes": ["Falta de professores", "Falta de financiamento", "Falta de infraestrutura", "Todas as anteriores"],
+        "resposta": "Todas as anteriores"
+      }
+    ],
+"Hidrografia": [
+    {
+        "id": 1,
+        "pergunta": "Qual é o rio mais longo de Moçambique?",
+        "opcoes": [
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma",
+            "Rio Save"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 2,
+        "pergunta": "Qual rio forma parte da fronteira norte de Moçambique com a Tanzânia?",
+        "opcoes": [
+            "Rio Rovuma",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Messalo"
+        ],
+        "resposta": "Rio Rovuma"
+    },
+    {
+        "id": 3,
+        "pergunta": "Qual é o maior lago natural de Moçambique?",
+        "opcoes": [
+            "Lago Niassa",
+            "Lago Cahora Bassa",
+            "Lago Chiuta",
+            "Lago Chiramba"
+        ],
+        "resposta": "Lago Niassa"
+    },
+    {
+        "id": 4,
+        "pergunta": "Qual rio atravessa a cidade de Tete?",
+        "opcoes": [
+            "Rio Save",
+            "Rio Zambeze",
+            "Rio Púnguè",
+            "Rio Limpopo"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 5,
+        "pergunta": "Qual é a principal barragem hidroelétrica de Moçambique?",
+        "opcoes": [
+            "Barragem de Cahora Bassa",
+            "Barragem de Nacala",
+            "Barragem de Limpopo",
+            "Barragem de Rovuma"
+        ],
+        "resposta": "Barragem de Cahora Bassa"
+    },
+    {
+        "id": 6,
+        "pergunta": "Qual rio desagua no Oceano Índico perto da cidade de Quelimane?",
+        "opcoes": [
+            "Rio dos Bons Sinais",
+            "Rio Zambeze",
+            "Rio Púnguè",
+            "Rio Buzi"
+        ],
+        "resposta": "Rio dos Bons Sinais"
+    },
+    {
+        "id": 7,
+        "pergunta": "Qual rio é conhecido por suas cheias sazonais no sul de Moçambique?",
+        "opcoes": [
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Rovuma",
+            "Rio Save"
+        ],
+        "resposta": "Rio Limpopo"
+    },
+    {
+        "id": 8,
+        "pergunta": "Qual lago faz parte da fronteira entre Moçambique e Malawi?",
+        "opcoes": [
+            "Lago Chiuta",
+            "Lago Niassa",
+            "Lago Cahora Bassa",
+            "Lago Chiramba"
+        ],
+        "resposta": "Lago Niassa"
+    },
+    {
+        "id": 9,
+        "pergunta": "Qual rio passa pela cidade de Chimoio?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Púnguè",
+            "Rio Save",
+            "Rio Zambeze"
+        ],
+        "resposta": "Rio Púnguè"
+    },
+    {
+        "id": 10,
+        "pergunta": "Qual é o principal afluente do Rio Zambeze em Moçambique?",
+        "opcoes": [
+            "Rio Shire",
+            "Rio Save",
+            "Rio Limpopo",
+            "Rio Messalo"
+        ],
+        "resposta": "Rio Shire"
+    },
+    {
+        "id": 11,
+        "pergunta": "Qual rio é essencial para a agricultura na província de Gaza?",
+        "opcoes": [
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Rovuma",
+            "Rio Buzi"
+        ],
+        "resposta": "Rio Limpopo"
+    },
+    {
+        "id": 12,
+        "pergunta": "Qual é o nome do canal que separa Moçambique de Madagascar?",
+        "opcoes": [
+            "Canal de Moçambique",
+            "Canal de Suez",
+            "Canal da Mancha",
+            "Canal de Panamá"
+        ],
+        "resposta": "Canal de Moçambique"
+    },
+    {
+        "id": 13,
+        "pergunta": "Qual rio desagua perto da cidade de Beira?",
+        "opcoes": [
+            "Rio Púnguè",
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Limpopo"
+        ],
+        "resposta": "Rio Púnguè"
+    },
+    {
+        "id": 14,
+        "pergunta": "Qual lago artificial foi criado pela Barragem de Cahora Bassa?",
+        "opcoes": [
+            "Lago Cahora Bassa",
+            "Lago Niassa",
+            "Lago Chiuta",
+            "Lago Chiramba"
+        ],
+        "resposta": "Lago Cahora Bassa"
+    },
+    {
+        "id": 15,
+        "pergunta": "Qual rio é importante para a pesca na província de Sofala?",
+        "opcoes": [
+            "Rio Save",
+            "Rio Buzi",
+            "Rio Zambeze",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Buzi"
+    },
+    {
+        "id": 16,
+        "pergunta": "Qual rio nasce nas terras altas do Zimbábue e atravessa Moçambique?",
+        "opcoes": [
+            "Rio Save",
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Save"
+    },
+    {
+        "id": 17,
+        "pergunta": "Qual é o principal rio da província de Cabo Delgado?",
+        "opcoes": [
+            "Rio Messalo",
+            "Rio Rovuma",
+            "Rio Zambeze",
+            "Rio Púnguè"
+        ],
+        "resposta": "Rio Messalo"
+    },
+    {
+        "id": 18,
+        "pergunta": "Qual rio atravessa a província de Niassa?",
+        "opcoes": [
+            "Rio Lugenda",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Lugenda"
+    },
+    {
+        "id": 19,
+        "pergunta": "Qual rio é conhecido por suas corredeiras no norte de Moçambique?",
+        "opcoes": [
+            "Rio Rovuma",
+            "Rio Zambeze",
+            "Rio Messalo",
+            "Rio Lugenda"
+        ],
+        "resposta": "Rio Lugenda"
+    },
+    {
+        "id": 20,
+        "pergunta": "Qual é o principal rio que abastece a cidade de Nampula?",
+        "opcoes": [
+            "Rio Monapo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Monapo"
+    },
+    {
+        "id": 21,
+        "pergunta": "Qual rio forma deltas importantes no Oceano Índico?",
+        "opcoes": [
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma",
+            "Rio Púnguè"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 22,
+        "pergunta": "Qual rio é essencial para a irrigação na província de Manica?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Púnguè",
+            "Rio Save",
+            "Rio Zambeze"
+        ],
+        "resposta": "Rio Púnguè"
+    },
+    {
+        "id": 23,
+        "pergunta": "Qual rio corta a província de Inhambane?",
+        "opcoes": [
+            "Rio Save",
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Govuro"
+        ],
+        "resposta": "Rio Govuro"
+    },
+    {
+        "id": 24,
+        "pergunta": "Qual rio é famoso por suas pescarias na província de Tete?",
+        "opcoes": [
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 25,
+        "pergunta": "Qual rio nasce na província de Manica e desagua no Oceano Índico?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Buzi"
+    },
+    {
+        "id": 26,
+        "pergunta": "Qual é o menor rio importante de Moçambique?",
+        "opcoes": [
+            "Rio Messalo",
+            "Rio Monapo",
+            "Rio Govuro",
+            "Rio Shire"
+        ],
+        "resposta": "Rio Monapo"
+    },
+    {
+        "id": 27,
+        "pergunta": "Qual rio é usado para transporte na província de Sofala?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Zambeze",
+            "Rio Púnguè",
+            "Rio Save"
+        ],
+        "resposta": "Rio Buzi"
+    },
+    {
+        "id": 28,
+        "pergunta": "Qual rio atravessa a cidade de Maxixe?",
+        "opcoes": [
+            "Rio Inharrime",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Inharrime"
+    },
+    {
+        "id": 29,
+        "pergunta": "Qual rio é essencial para a província de Zambezia?",
+        "opcoes": [
+            "Rio Licungo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Licungo"
+    },
+    {
+        "id": 30,
+        "pergunta": "Qual rio nasce no Malawi e atravessa Moçambique?",
+        "opcoes": [
+            "Rio Shire",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Shire"
+    },
+    {
+        "id": 31,
+        "pergunta": "Qual rio desagua perto da cidade de Pemba?",
+        "opcoes": [
+            "Rio Messalo",
+            "Rio Rovuma",
+            "Rio Zambeze",
+            "Rio Púnguè"
+        ],
+        "resposta": "Rio Messalo"
+    },
+    {
+        "id": 32,
+        "pergunta": "Qual rio é conhecido por suas cheias na província de Sofala?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Púnguè"
+        ],
+        "resposta": "Rio Buzi"
+    },
+    {
+        "id": 33,
+        "pergunta": "Qual rio passa pela cidade de Lichinga?",
+        "opcoes": [
+            "Rio Lugenda",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Lugenda"
+    },
+    {
+        "id": 34,
+        "pergunta": "Qual rio é essencial para a pesca na província de Nampula?",
+        "opcoes": [
+            "Rio Monapo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Monapo"
+    },
+    {
+        "id": 35,
+        "pergunta": "Qual rio atravessa o Parque Nacional da Gorongosa?",
+        "opcoes": [
+            "Rio Púnguè",
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Buzi"
+        ],
+        "resposta": "Rio Púnguè"
+    },
+    {
+        "id": 36,
+        "pergunta": "Qual rio é importante para a agricultura na província de Inhambane?",
+        "opcoes": [
+            "Rio Govuro",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Govuro"
+    },
+    {
+        "id": 37,
+        "pergunta": "Qual rio desagua no Oceano Índico perto de Xai-Xai?",
+        "opcoes": [
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Rovuma",
+            "Rio Save"
+        ],
+        "resposta": "Rio Limpopo"
+    },
+    {
+        "id": 38,
+        "pergunta": "Qual rio é conhecido por sua biodiversidade aquática?",
+        "opcoes": [
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma",
+            "Rio Save"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 39,
+        "pergunta": "Qual rio atravessa a província de Maputo?",
+        "opcoes": [
+            "Rio Incomati",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Incomati"
+    },
+    {
+        "id": 40,
+        "pergunta": "Qual rio é essencial para a cidade de Angoche?",
+        "opcoes": [
+            "Rio Monapo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Monapo"
+    },
+    {
+        "id": 41,
+        "pergunta": "Qual rio nasce na África do Sul e atravessa Moçambique?",
+        "opcoes": [
+            "Rio Incomati",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Incomati"
+    },
+    {
+        "id": 42,
+        "pergunta": "Qual rio é usado para transporte na província de Zambezia?",
+        "opcoes": [
+            "Rio Licungo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Licungo"
+    },
+    {
+        "id": 43,
+        "pergunta": "Qual rio atravessa a cidade de Mocuba?",
+        "opcoes": [
+            "Rio Licungo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Licungo"
+    },
+    {
+        "id": 44,
+        "pergunta": "Qual rio é essencial para a província de Tete?",
+        "opcoes": [
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Zambeze"
+    },
+    {
+        "id": 45,
+        "pergunta": "Qual rio desagua perto da cidade de Inhambane?",
+        "opcoes": [
+            "Rio Govuro",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Govuro"
+    },
+    {
+        "id": 46,
+        "pergunta": "Qual rio é conhecido por suas cheias na província de Gaza?",
+        "opcoes": [
+            "Rio Limpopo",
+            "Rio Zambeze",
+            "Rio Rovuma",
+            "Rio Save"
+        ],
+        "resposta": "Rio Limpopo"
+    },
+    {
+        "id": 47,
+        "pergunta": "Qual rio atravessa a província de Niassa e desagua no Lago Niassa?",
+        "opcoes": [
+            "Rio Lugenda",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Lugenda"
+    },
+    {
+        "id": 48,
+        "pergunta": "Qual rio é importante para a pesca na província de Cabo Delgado?",
+        "opcoes": [
+            "Rio Messalo",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Rovuma"
+        ],
+        "resposta": "Rio Messalo"
+    },
+    {
+        "id": 49,
+        "pergunta": "Qual rio atravessa a cidade de Vilankulo?",
+        "opcoes": [
+            "Rio Govuro",
+            "Rio Zambeze",
+            "Rio Limpopo",
+            "Rio Save"
+        ],
+        "resposta": "Rio Govuro"
+    },
+    {
+        "id": 50,
+        "pergunta": "Qual rio é essencial para a irrigação na província de Sofala?",
+        "opcoes": [
+            "Rio Buzi",
+            "Rio Zambeze",
+            "Rio Save",
+            "Rio Púnguè"
+        ],
+        "resposta": "Rio Buzi"
+    }
+],
+"Relevo": [
+    {
+        "id": 1,
+        "pergunta": "Qual é o ponto mais alto de Moçambique?",
+        "opcoes": [
+            "Monte Namuli",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Binga"
+    },
+    {
+        "id": 2,
+        "pergunta": "Em que província está localizado o Monte Binga?",
+        "opcoes": [
+            "Manica",
+            "Tete",
+            "Sofala",
+            "Zambezia"
+        ],
+        "resposta": "Manica"
+    },
+    {
+        "id": 3,
+        "pergunta": "Qual montanha é conhecida por sua biodiversidade na província de Zambezia?",
+        "opcoes": [
+            "Monte Mabu",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Mabu"
+    },
+    {
+        "id": 4,
+        "pergunta": "Qual é a altitude aproximada do Monte Binga?",
+        "opcoes": [
+            "1.500 m",
+            "2.436 m",
+            "3.000 m",
+            "1.000 m"
+        ],
+        "resposta": "2.436 m"
+    },
+    {
+        "id": 5,
+        "pergunta": "Qual montanha está localizada no Parque Nacional da Gorongosa?",
+        "opcoes": [
+            "Monte Gorongosa",
+            "Monte Binga",
+            "Monte Namuli",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Gorongosa"
+    },
+    {
+        "id": 6,
+        "pergunta": "Qual planalto cobre grande parte do norte de Moçambique?",
+        "opcoes": [
+            "Planalto de Angónia",
+            "Planalto de Mueda",
+            "Planalto de Lichinga",
+            "Planalto de Manica"
+        ],
+        "resposta": "Planalto de Lichinga"
+    },
+    {
+        "id": 7,
+        "pergunta": "Qual montanha é sagrada para as comunidades locais em Zambezia?",
+        "opcoes": [
+            "Monte Namuli",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Namuli"
+    },
+    {
+        "id": 8,
+        "pergunta": "Qual é a principal cadeia montanhosa no oeste de Moçambique?",
+        "opcoes": [
+            "Serra da Gorongosa",
+            "Serra do Chimanimani",
+            "Serra de Namuli",
+            "Serra de Mabu"
+        ],
+        "resposta": "Serra do Chimanimani"
+    },
+    {
+        "id": 9,
+        "pergunta": "Qual montanha está na província de Niassa?",
+        "opcoes": [
+            "Monte Mecula",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Mecula"
+    },
+    {
+        "id": 10,
+        "pergunta": "Qual é a altitude aproximada do Monte Namuli?",
+        "opcoes": [
+            "1.000 m",
+            "2.419 m",
+            "3.000 m",
+            "1.500 m"
+        ],
+        "resposta": "2.419 m"
+    },
+    {
+        "id": 11,
+        "pergunta": "Qual planalto está localizado na província de Cabo Delgado?",
+        "opcoes": [
+            "Planalto de Mueda",
+            "Planalto de Lichinga",
+            "Planalto de Angónia",
+            "Planalto de Manica"
+        ],
+        "resposta": "Planalto de Mueda"
+    },
+    {
+        "id": 12,
+        "pergunta": "Qual montanha é conhecida por suas florestas tropicais intocadas?",
+        "opcoes": [
+            "Monte Mabu",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Mabu"
+    },
+    {
+        "id": 13,
+        "pergunta": "Qual é a principal característica do relevo no sul de Moçambique?",
+        "opcoes": [
+            "Planícies costeiras",
+            "Montanhas altas",
+            "Planalto central",
+            "Vales profundos"
+        ],
+        "resposta": "Planícies costeiras"
+    },
+    {
+        "id": 14,
+        "pergunta": "Qual montanha fica perto da cidade de Gurué?",
+        "opcoes": [
+            "Monte Namuli",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Namuli"
+    },
+    {
+        "id": 15,
+        "pergunta": "Qual é o relevo predominante na província de Tete?",
+        "opcoes": [
+            "Planalto",
+            "Planície",
+            "Montanhas",
+            "Vales"
+        ],
+        "resposta": "Planalto"
+    },
+    {
+        "id": 16,
+        "pergunta": "Qual montanha está na fronteira com o Zimbábue?",
+        "opcoes": [
+            "Monte Binga",
+            "Monte Namuli",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Binga"
+    },
+    {
+        "id": 17,
+        "pergunta": "Qual é a altitude aproximada do Monte Gorongosa?",
+        "opcoes": [
+            "1.863 m",
+            "2.000 m",
+            "1.500 m",
+            "2.500 m"
+        ],
+        "resposta": "1.863 m"
+    },
+    {
+        "id": 18,
+        "pergunta": "Qual planalto é importante para a agricultura na província de Niassa?",
+        "opcoes": [
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Angónia",
+            "Planalto de Manica"
+        ],
+        "resposta": "Planalto de Lichinga"
+    },
+    {
+        "id": 19,
+        "pergunta": "Qual montanha é um destino popular para caminhadas em Sofala?",
+        "opcoes": [
+            "Monte Gorongosa",
+            "Monte Binga",
+            "Monte Namuli",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Gorongosa"
+    },
+    {
+        "id": 20,
+        "pergunta": "Qual é o tipo de relevo mais comum ao longo da costa moçambicana?",
+        "opcoes": [
+            "Planícies",
+            "Montanhas",
+            "Planalto",
+            "Colinas"
+        ],
+        "resposta": "Planícies"
+    },
+    {
+        "id": 21,
+        "pergunta": "Qual montanha está na província de Manica, além do Monte Binga?",
+        "opcoes": [
+            "Monte Vumba",
+            "Monte Namuli",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Vumba"
+    },
+    {
+        "id": 22,
+        "pergunta": "Qual é a principal formação geológica do Planalto de Mueda?",
+        "opcoes": [
+            "Rochas sedimentares",
+            "Rochas vulcânicas",
+            "Rochas metamórficas",
+            "Rochas graníticas"
+        ],
+        "resposta": "Rochas graníticas"
+    },
+    {
+        "id": 23,
+        "pergunta": "Qual montanha é conhecida por suas cavernas em Tete?",
+        "opcoes": [
+            "Monte Chiperone",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Chiperone"
+    },
+    {
+        "id": 24,
+        "pergunta": "Qual é a altitude aproximada do Monte Mabu?",
+        "opcoes": [
+            "1.700 m",
+            "2.000 m",
+            "2.500 m",
+            "1.200 m"
+        ],
+        "resposta": "1.700 m"
+    },
+    {
+        "id": 25,
+        "pergunta": "Qual planalto está na província de Tete?",
+        "opcoes": [
+            "Planalto de Angónia",
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Manica"
+        ],
+        "resposta": "Planalto de Angónia"
+    },
+    {
+        "id": 26,
+        "pergunta": "Qual montanha é um marco na província de Nampula?",
+        "opcoes": [
+            "Monte Ribaue",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Ribaue"
+    },
+    {
+        "id": 27,
+        "pergunta": "Qual é o relevo predominante no interior de Moçambique?",
+        "opcoes": [
+            "Planalto",
+            "Planície",
+            "Montanhas",
+            "Vales"
+        ],
+        "resposta": "Planalto"
+    },
+    {
+        "id": 28,
+        "pergunta": "Qual montanha fica perto da cidade de Lichinga?",
+        "opcoes": [
+            "Monte Mecula",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Mecula"
+    },
+    {
+        "id": 29,
+        "pergunta": "Qual é a principal característica do relevo na província de Gaza?",
+        "opcoes": [
+            "Planícies",
+            "Montanhas",
+            "Planalto",
+            "Colinas"
+        ],
+        "resposta": "Planícies"
+    },
+    {
+        "id": 30,
+        "pergunta": "Qual montanha está na província de Inhambane?",
+        "opcoes": [
+            "Monte Murre",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Murre"
+    },
+    {
+        "id": 31,
+        "pergunta": "Qual planalto é essencial para a província de Manica?",
+        "opcoes": [
+            "Planalto de Manica",
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Angónia"
+        ],
+        "resposta": "Planalto de Manica"
+    },
+    {
+        "id": 32,
+        "pergunta": "Qual montanha é conhecida por suas vistas panorâmicas em Zambezia?",
+        "opcoes": [
+            "Monte Namuli",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Namuli"
+    },
+    {
+        "id": 33,
+        "pergunta": "Qual é a altitude aproximada do Monte Mecula?",
+        "opcoes": [
+            "1.400 m",
+            "2.000 m",
+            "1.800 m",
+            "2.500 m"
+        ],
+        "resposta": "1.400 m"
+    },
+    {
+        "id": 34,
+        "pergunta": "Qual montanha fica na província de Sofala, além do Monte Gorongosa?",
+        "opcoes": [
+            "Monte Dombe",
+            "Monte Binga",
+            "Monte Namuli",
+            "Monte Mabu"
+        ],
+        "resposta": "Monte Dombe"
+    },
+    {
+        "id": 35,
+        "pergunta": "Qual é o tipo de relevo predominante na província de Maputo?",
+        "opcoes": [
+            "Planícies",
+            "Montanhas",
+            "Planalto",
+            "Colinas"
+        ],
+        "resposta": "Planícies"
+    },
+    {
+        "id": 36,
+        "pergunta": "Qual montanha é conhecida por suas florestas em Nampula?",
+        "opcoes": [
+            "Monte Ribaue",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Ribaue"
+    },
+    {
+        "id": 37,
+        "pergunta": "Qual planalto é importante para a província de Zambezia?",
+        "opcoes": [
+            "Planalto de Gurué",
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Angónia"
+        ],
+        "resposta": "Planalto de Gurué"
+    },
+    {
+        "id": 38,
+        "pergunta": "Qual montanha está na província de Tete, além do Monte Chiperone?",
+        "opcoes": [
+            "Monte Txitonga",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Txitonga"
+    },
+    {
+        "id": 39,
+        "pergunta": "Qual é o relevo predominante na província de Niassa?",
+        "opcoes": [
+            "Planalto",
+            "Planície",
+            "Montanhas",
+            "Vales"
+        ],
+        "resposta": "Planalto"
+    },
+    {
+        "id": 40,
+        "pergunta": "Qual montanha é um marco na província de Cabo Delgado?",
+        "opcoes": [
+            "Monte Chiperone",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Chiperone"
+    },
+    {
+        "id": 41,
+        "pergunta": "Qual planalto está na província de Sofala?",
+        "opcoes": [
+            "Planalto de Chimoio",
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Angónia"
+        ],
+        "resposta": "Planalto de Chimoio"
+    },
+    {
+        "id": 42,
+        "pergunta": "Qual montanha é conhecida por sua vegetação densa em Manica?",
+        "opcoes": [
+            "Monte Vumba",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Vumba"
+    },
+    {
+        "id": 43,
+        "pergunta": "Qual é a altitude aproximada do Monte Chiperone?",
+        "opcoes": [
+            "2.000 m",
+            "1.500 m",
+            "2.054 m",
+            "1.800 m"
+        ],
+        "resposta": "2.054 m"
+    },
+    {
+        "id": 44,
+        "pergunta": "Qual montanha fica perto da cidade de Chimoio?",
+        "opcoes": [
+            "Monte Vumba",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Vumba"
+    },
+    {
+        "id": 45,
+        "pergunta": "Qual é o tipo de relevo predominante na província de Inhambane?",
+        "opcoes": [
+            "Planícies",
+            "Montanhas",
+            "Planalto",
+            "Colinas"
+        ],
+        "resposta": "Planícies"
+    },
+    {
+        "id": 46,
+        "pergunta": "Qual montanha é conhecida por suas trilhas em Niassa?",
+        "opcoes": [
+            "Monte Mecula",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Mecula"
+    },
+    {
+        "id": 47,
+        "pergunta": "Qual planalto é essencial para a agricultura na província de Tete?",
+        "opcoes": [
+            "Planalto de Angónia",
+            "Planalto de Lichinga",
+            "Planalto de Mueda",
+            "Planalto de Manica"
+        ],
+        "resposta": "Planalto de Angónia"
+    },
+    {
+        "id": 48,
+        "pergunta": "Qual montanha fica na província de Gaza?",
+        "opcoes": [
+            "Monte Chibuto",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Chibuto"
+    },
+    {
+        "id": 49,
+        "pergunta": "Qual é o relevo predominante na província de Zambezia?",
+        "opcoes": [
+            "Planalto",
+            "Planície",
+            "Montanhas",
+            "Vales"
+        ],
+        "resposta": "Planalto"
+    },
+    {
+        "id": 50,
+        "pergunta": "Qual montanha é conhecida por sua vista sobre o Oceano Índico?",
+        "opcoes": [
+            "Monte Murre",
+            "Monte Binga",
+            "Monte Gorongosa",
+            "Monte Namuli"
+        ],
+        "resposta": "Monte Murre"
+    }
+]
+}

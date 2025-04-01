@@ -25,7 +25,7 @@ class _GameScreenState extends State<GameScreen> with SingleTickerProviderStateM
 
   void _startBackgroundMusic() async {
     await _player.startPlayer(
-      fromURI: 'assets/audio/background_music.mp3',
+      fromURI: 'assets/audio/backgroun.mp3',
       codec: Codec.mp3,
       whenFinished: _startBackgroundMusic,
     );
